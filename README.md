@@ -19,6 +19,9 @@
 ## Testing
 * [gast](https://github.com/zixia/gast) Google Apps Script TAP Testing-framework
 
+## Logging
+* [gasl](https://github.com/zixia/gasl) Google Apps Script Logging-framework
+
 ## Snippets
 * [GoogleSheets](https://github.com/Max-Makhrov/GoogleSheets) best code I've tested in Google Sheets
 * [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
