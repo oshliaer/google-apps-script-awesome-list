@@ -2,6 +2,7 @@
 
 ## Resources
 * [Google Apps Script](https://plus.google.com/communities/102471985047225101769) G+ Community
+* [Developing add-ons for Google Docs/Sheets/Forms](https://plus.google.com/u/0/communities/117193953428311185494) G+ Community
 * Search by label  [[google-apps-script]](https://github.com/search?q=topic%3Agoogle-apps-script) on GitHub
 * SO [[google-apps-script]](http://stackoverflow.com/questions/tagged/google-apps-script) tag
 
