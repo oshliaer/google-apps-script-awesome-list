@@ -23,6 +23,7 @@
 ## Logging
 * [gasl](https://github.com/zixia/gasl) Google Apps Script Logging-framework
 
-## Snippets
+## Snippets and assorted
 * [GoogleSheets](https://github.com/Max-Makhrov/GoogleSheets) best code I've tested in Google Sheets
 * [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
+* [google-docs](https://github.com/fastfedora/google-docs) Libraries and functions used within Google Docs
