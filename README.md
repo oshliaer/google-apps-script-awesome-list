@@ -9,6 +9,7 @@
 ## Development
 * [node-google-apps-script](https://github.com/danthareja/node-google-apps-script) The easiest way to develop Google Apps Script projects
 * [gas-local](https://github.com/mzagorny/gas-local) Execute and test your google app scripts locally in node.js
+  * [gamified_journal](https://github.com/brainysmurf/gamified_journal) Proof of concept of a local development / push toolchain for Google Apps Scripting.
 * [gas-github](https://github.com/leonhartX/gas-github) Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 
 ## Libraries
