@@ -30,4 +30,4 @@
 * [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
 * [google-docs](https://github.com/fastfedora/google-docs) Libraries and functions used within Google Docs
 * [google-apps-script](https://ctrlq.org/dev/google-apps-script) Amit Agarwal's site
-* [google-apps-script-snippets](https://mashe.hawksey.info/google-apps-script-snippets) Martin Hawksey's site
+* [google-apps-script](https://mashe.hawksey.info/category/google/google-apps-script) Martin Hawksey's site
