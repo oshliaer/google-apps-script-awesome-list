@@ -13,6 +13,10 @@
 * [gas-github](https://github.com/leonhartX/gas-github) Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 
 ## Libraries
+
+### Utility
+* [gas-underscore](https://github.com/simula-innovation/gas-underscore) Underscore for Google Apps Script
+
 ### oAuth
 * [apps-script-oauth2](https://github.com/googlesamples/apps-script-oauth2) An OAuth2 library for Google Apps Script
 
