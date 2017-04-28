@@ -14,6 +14,9 @@
 
 ## Libraries
 
+### Using databases
+* [FirebaseApp](https://github.com/RomainVialard/FirebaseApp) The Google Apps Script binding for the Firebase Realtime Database
+
 ### Utility
 * [gas-underscore](https://github.com/simula-innovation/gas-underscore) Underscore for Google Apps Script
 
