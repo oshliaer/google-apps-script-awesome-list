@@ -1,4 +1,5 @@
 # Google Apps Script List
+[![Unsplash](https://source.unsplash.com/fsgyO8vF7do/900x200)](https://unsplash.com/photos/fsgyO8vF7do)
 
 ## Resources
 * [Google Apps Script](https://plus.google.com/communities/102471985047225101769) G+ Community
