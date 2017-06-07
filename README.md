@@ -22,14 +22,14 @@
 * [gas-underscore](https://github.com/simula-innovation/gas-underscore) Underscore for Google Apps Script
 * [lodashgs](https://github.com/oshliaer/lodashgs) Lodash for Google Apps Script is a library that enables the use of the lodash.js library in Google Apps Script
 
+### Parsing
+* [Apps-Script-htmlparser2-library](https://github.com/Spencer-Easton/Apps-Script-htmlparser2-library) A browserified version of fb55/htmlparser2 modified to work in Google Apps Script
+
 ### oAuth
 * [apps-script-oauth2](https://github.com/googlesamples/apps-script-oauth2) An OAuth2 library for Google Apps Script
 
 ## Add-ons
 * [google-docs-add-on](https://github.com/Automattic/google-docs-add-on) Publish to WordPress from Google Docs
-
-## Parsing
-* [Apps-Script-htmlparser2-library](https://github.com/Spencer-Easton/Apps-Script-htmlparser2-library) A browserified version of fb55/htmlparser2 modified to work in Google Apps Script
 
 ## Testing
 * [gast](https://github.com/zixia/gast) Google Apps Script TAP Testing-framework
