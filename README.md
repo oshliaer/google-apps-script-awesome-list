@@ -29,6 +29,9 @@
 ### oAuth
 * [apps-script-oauth2](https://github.com/googlesamples/apps-script-oauth2) An OAuth2 library for Google Apps Script
 
+### Images & Pictures
+* [ImgApp](https://github.com/tanaikech/ImgApp) This is a library of image tools for Google Apps Script
+
 ## Add-ons
 * [google-docs-add-on](https://github.com/Automattic/google-docs-add-on) Publish to WordPress from Google Docs
 
