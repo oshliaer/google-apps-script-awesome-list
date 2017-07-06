@@ -13,6 +13,7 @@
   * [gamified_journal](https://github.com/brainysmurf/gamified_journal) Proof of concept of a local development / push toolchain for Google Apps Scripting
 * [gas-github](https://github.com/leonhartX/gas-github) Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [ggsrun](https://github.com/tanaikech/ggsrun) This is a CLI tool to execute Google Apps Script (GAS) on a terminal
+* [gdrive](https://github.com/prasmussen/gdrive) Google Drive CLI Client
 
 ## Libraries
 
