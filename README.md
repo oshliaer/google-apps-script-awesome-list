@@ -1,5 +1,4 @@
 # Google Apps Script List
-[![Unsplash](https://source.unsplash.com/fsgyO8vF7do/900x200)](https://unsplash.com/photos/fsgyO8vF7do)
 <!-- TOC depthFrom:2 -->
 
 - [Resources](#resources)
