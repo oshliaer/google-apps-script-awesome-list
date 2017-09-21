@@ -4,7 +4,7 @@
 - [Resources](#resources)
   - [Useful sites](#useful-sites)
 - [Development](#development)
-- [Libraries](#libraries)
+- [Libraries & Modules](#libraries--modules)
   - [Using databases](#using-databases)
   - [Utility](#utility)
   - [Parsing](#parsing)
@@ -37,7 +37,7 @@
 * [gdrive](https://github.com/prasmussen/gdrive) Google Drive CLI Client
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) gas, for locally developing Google Apps Script projects
 
-## Libraries
+## Libraries & Modules
 
 ### Using databases
 * [FirebaseApp](https://github.com/RomainVialard/FirebaseApp) The Google Apps Script binding for the Firebase Realtime Database
