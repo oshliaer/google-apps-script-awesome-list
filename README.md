@@ -6,6 +6,7 @@
 - [Development](#development)
 - [Libraries & Modules](#libraries--modules)
   - [Using databases](#using-databases)
+  - [ORM (O/RM and O/R mapping tool)](#orm-orm-and-or-mapping-tool)
   - [Utility](#utility)
   - [Parsing](#parsing)
   - [oAuth](#oauth)
@@ -41,6 +42,10 @@
 
 ### Using databases
 * [FirebaseApp](https://github.com/RomainVialard/FirebaseApp) The Google Apps Script binding for the Firebase Realtime Database
+
+### ORM (O/RM and O/R mapping tool)
+* [Goodel](https://github.com/7imon7ays/Goodel) An ORM for Google Apps scripts
+* [gs-spreadsheet-manager](https://github.com/jsoma/gs-spreadsheet-manager) A slightly more object-oriented, ORM-y, and altogether pleasant way of dealing with Google Spreadsheets when using Google Apps Script
 
 ### Utility
 * [gas-underscore](https://github.com/simula-innovation/gas-underscore) Underscore for Google Apps Script
