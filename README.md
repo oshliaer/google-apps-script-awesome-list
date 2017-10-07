@@ -6,7 +6,6 @@
 - [Development](#development)
 - [Libraries & Modules](#libraries--modules)
   - [Using databases](#using-databases)
-  - [ORM (O/RM and O/R mapping tool)](#orm-orm-and-or-mapping-tool)
   - [Utility](#utility)
   - [Parsing](#parsing)
   - [oAuth](#oauth)
@@ -43,10 +42,13 @@
 ### Using databases
 * [FirebaseApp](https://github.com/RomainVialard/FirebaseApp) ★4 The Google Apps Script binding for the Firebase Realtime Database
 
+<<<<<<< HEAD
 ### ORM (O/RM and O/R mapping tool)
 * [Goodel](https://github.com/7imon7ays/Goodel) ★5 An ORM for Google Apps scripts
 * [gs-spreadsheet-manager](https://github.com/jsoma/gs-spreadsheet-manager) ★10 A slightly more object-oriented, ORM-y, and altogether pleasant way of dealing with Google Spreadsheets when using Google Apps Script
 
+=======
+>>>>>>> parent of e346882... Subject: Add ORMs
 ### Utility
 * [gas-underscore](https://github.com/simula-innovation/gas-underscore) ★26 Underscore for Google Apps Script
 * [lodashgs](https://github.com/oshliaer/lodashgs) ★2 Lodash for Google Apps Script is a library that enables the use of the lodash.js library in Google Apps Script
