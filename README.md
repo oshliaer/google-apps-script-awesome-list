@@ -30,7 +30,7 @@
 * [googleappscripting.com](http://googleappscripting.com) Google Apps Script Tutorials and Examples • Making Google Apps Script Accessible to Eveybody
 
 ## Development
-* [node-google-apps-script](https://github.com/danthareja/node-google-apps-scriptxx) The easiest way to develop Google Apps Script projects
+* [node-google-apps-script](https://github.com/danthareja/node-google-apps-script) The easiest way to develop Google Apps Script projects
 * [gas-local](https://github.com/mzagorny/gas-local) ★9 Execute and test your google app scripts locally in node.js
   * [gamified_journal](https://github.com/brainysmurf/gamified_journal) ★1 Proof of concept of a local development / push toolchain for Google Apps Scripting
 * [gas-github](https://github.com/leonhartX/gas-github) ★87 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
