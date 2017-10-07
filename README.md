@@ -56,13 +56,13 @@
 
 ### oAuth
 * [apps-script-oauth2](https://github.com/googlesamples/apps-script-oauth2) ★367 An OAuth2 library for Google Apps Script
+* [brucemcpherson/cGoa](https://github.com/brucemcpherson/cGoa) ★14 OAuth2 for Apps Script in a few lines of code
 
 ### Images & Pictures
 * [ImgApp](https://github.com/tanaikech/ImgApp) ★9 This is a library of image tools for Google Apps Script
 
 ## Add-ons
 * [google-docs-add-on](https://github.com/Automattic/google-docs-add-on) ★102 Publish to WordPress from Google Docs
-* [brucemcpherson/cGoa](https://github.com/brucemcpherson/cGoa) ★14 OAuth2 for Apps Script in a few lines of code
 
 ## Testing
 * [gast](https://github.com/zixia/gast) ★14 Google Apps Script TAP Testing-framework
