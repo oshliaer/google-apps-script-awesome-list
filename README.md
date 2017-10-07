@@ -62,7 +62,7 @@
 
 ## Add-ons
 * [google-docs-add-on](https://github.com/Automattic/google-docs-add-on) ★102 Publish to WordPress from Google Docs
-* [brucemcpherson/testGoaNoCreds](https://github.com/brucemcpherson/testGoaNoCreds) ★0 OAuth2 for Apps Script in a few lines of code
+* [brucemcpherson/cGoa](https://github.com/brucemcpherson/cGoa) ★0 OAuth2 for Apps Script in a few lines of code
 
 ## Testing
 * [gast](https://github.com/zixia/gast) ★14 Google Apps Script TAP Testing-framework
