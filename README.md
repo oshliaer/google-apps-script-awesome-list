@@ -33,7 +33,7 @@
 * [node-google-apps-script](https://github.com/danthareja/node-google-apps-script) ★257 The easiest way to develop Google Apps Script projects
 * [gas-local](https://github.com/mzagorny/gas-local) ★9 Execute and test your google app scripts locally in node.js
   * [gamified_journal](https://github.com/brainysmurf/gamified_journal) ★1 Proof of concept of a local development / push toolchain for Google Apps Scripting
-* [gas-github](https://github.com/leonhartX/gas-github) ★87 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
+* [gas-github](https://github.com/leonhartX/gas-github) ★88 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [ggsrun](https://github.com/tanaikech/ggsrun) ★27 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [gdrive](https://github.com/prasmussen/gdrive) ★3511 Google Drive CLI Client
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) ★47 gas, for locally developing Google Apps Script projects
@@ -62,7 +62,7 @@
 
 ## Add-ons
 * [google-docs-add-on](https://github.com/Automattic/google-docs-add-on) ★102 Publish to WordPress from Google Docs
-* [brucemcpherson/cGoa](https://github.com/brucemcpherson/cGoa) ★0 OAuth2 for Apps Script in a few lines of code
+* [brucemcpherson/cGoa](https://github.com/brucemcpherson/cGoa) ★14 OAuth2 for Apps Script in a few lines of code
 
 ## Testing
 * [gast](https://github.com/zixia/gast) ★14 Google Apps Script TAP Testing-framework
