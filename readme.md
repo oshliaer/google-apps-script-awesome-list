@@ -36,12 +36,13 @@
 * [gas-github](https://github.com/leonhartX/gas-github) [![GitHub stars](https://img.shields.io/github/stars/leonhartX/gas-github.svg?style=social&label=Star)](https://github.com/leonhartX/gas-github) Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [ggsrun](https://github.com/tanaikech/ggsrun) [![GitHub stars](https://img.shields.io/github/stars/tanaikech/ggsrun.svg?style=social&label=Star)](https://github.com/tanaikech/ggsrun) This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [gdrive](https://github.com/prasmussen/gdrive) [![GitHub stars](https://img.shields.io/github/stars/prasmussen/gdrive.svg?style=social&label=Star)](https://github.com/prasmussen/gdrive) Google Drive CLI Client
-* [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) [![GitHub stars](https://img.shields.io/github/stars/MaartenDesnouck/google-apps-script.svg?style=social&label=Star)](https://github.com/MaartenDesnouck/google-apps-script) gas, for locally developing Google Apps Script projects
+* [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) [![GitHub stars](https://img.shields.io/github/stars/MaartenDesnouck/google-apps-script.svg?style=social&label=★)](https://github.com/MaartenDesnouck/google-apps-script) gas, for locally developing Google Apps Script projects
 
 ## Libraries & Modules
 
 ### Using databases
 * [FirebaseApp](https://github.com/RomainVialard/FirebaseApp) [![GitHub stars](https://img.shields.io/github/stars/RomainVialard/FirebaseApp.svg?style=social&label=Star)](https://github.com/RomainVialard/FirebaseApp) The Google Apps Script binding for the Firebase Realtime Database
+* [oshliaer/alasqlgs](https://github.com/oshliaer/alasqlgs) [![GitHub stars](https://img.shields.io/github/stars/oshliaer/alasqlgs.svg?style=social&label=Star)](https://github.com/oshliaer/alasqlgs) AlaSQLGS is a library that enables the use of the AlaSQL.js library in Google Apps Script
 
 ### ORM (O/RM and O/R mapping tool)
 * [Goodel](https://github.com/7imon7ays/Goodel) [![GitHub stars](https://img.shields.io/github/stars/7imon7ays/Goodel.svg?style=social&label=Star)](https://github.com/7imon7ays/Goodel) An ORM for Google Apps scripts
