@@ -2,7 +2,7 @@
 <!-- TOC depthFrom:2 -->
 
 - [Resources](#resources)
-  - [Useful sites](#useful-sites)
+  - [Useful sites & blogs](#useful-sites--blogs)
 - [Development](#development)
 - [Libraries & Modules](#libraries--modules)
   - [Using databases](#using-databases)
@@ -23,12 +23,13 @@
 * Search by label  [[google-apps-script]](https://github.com/search?q=topic%3Agoogle-apps-script) on GitHub
 * SO [[google-apps-script]](http://stackoverflow.com/questions/tagged/google-apps-script) tag
 
-### Useful sites
+### Useful sites & blogs
 * [ctrlq.org](https://ctrlq.org/dev/google-apps-script) Amit Agarwal's site
 * [mashe.hawksey.info](https://mashe.hawksey.info/category/google/google-apps-script) Martin Hawksey's site
 * [ramblings.mcpher.com](http://ramblings.mcpher.com/) Desktop Liberation - the definitive resource for Google Apps Script and Microsoft Office automation
 * [googleappscripting.com](http://googleappscripting.com) Google Apps Script Tutorials and Examples • Making Google Apps Script Accessible to Eveybody
 * [tanaikech.github.io](https://tanaikech.github.io/tags/google-apps-script/) The `Google Apps Script` tag of the Kanshi's blog
+* [andrewroberts.net](http://www.andrewroberts.net) The Andrew Roberts's site
 
 ## Development
 * [node-google-apps-script](https://github.com/danthareja/node-google-apps-script) [![GitHub stars](https://img.shields.io/github/stars/danthareja/node-google-apps-script.svg?style=social&label=Star)](https://github.com/danthareja/node-google-apps-script) The easiest way to develop Google Apps Script projects
