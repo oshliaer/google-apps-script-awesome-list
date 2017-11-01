@@ -51,6 +51,7 @@
 ### Utility
 * [gas-underscore](https://github.com/simula-innovation/gas-underscore) [![GitHub stars](https://img.shields.io/github/stars/simula-innovation/gas-underscore.svg?style=social&label=Star)](https://github.com/simula-innovation/gas-underscore) Underscore for Google Apps Script
 * [lodashgs](https://github.com/oshliaer/lodashgs) [![GitHub stars](https://img.shields.io/github/stars/oshliaer/lodashgs.svg?style=social&label=Star)](https://github.com/oshliaer/lodashgs) Lodash for Google Apps Script is a library that enables the use of the lodash.js library in Google Apps Script
+* [brucemcpherson/cUseful](https://github.com/brucemcpherson/cUseful) [![GitHub stars](https://img.shields.io/github/stars/brucemcpherson/cUseful.svg?style=social&label=Star)](https://github.com/brucemcpherson/cUseful) Various dependency free useful functions
 
 ### Parsing
 * [Apps-Script-htmlparser2-library](https://github.com/Spencer-Easton/Apps-Script-htmlparser2-library) [![GitHub stars](https://img.shields.io/github/stars/Spencer-Easton/Apps-Script-htmlparser2-library.svg?style=social&label=Star)](https://github.com/Spencer-Easton/Apps-Script-htmlparser2-library) A browserified version of fb55/htmlparser2 modified to work in Google Apps Script
