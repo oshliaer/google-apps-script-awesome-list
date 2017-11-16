@@ -30,6 +30,7 @@
 * [googleappscripting.com](http://googleappscripting.com) Google Apps Script Tutorials and Examples • Making Google Apps Script Accessible to Eveybody
 * [tanaikech.github.io](https://tanaikech.github.io/tags/google-apps-script/) The `Google Apps Script` tag of the Kanshi's blog
 * [andrewroberts.net](http://www.andrewroberts.net) The Andrew Roberts's site
+* [kutil.org](http://www.kutil.org/search/label/google%20apps%20script) The `google apps script` tag of Ivan Kutil's blog
 
 ## Development
 * [node-google-apps-script](https://github.com/danthareja/node-google-apps-script) [![GitHub stars](https://img.shields.io/github/stars/danthareja/node-google-apps-script.svg?style=social&label=Star)](https://github.com/danthareja/node-google-apps-script) The easiest way to develop Google Apps Script projects
