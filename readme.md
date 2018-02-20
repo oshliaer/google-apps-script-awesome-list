@@ -54,6 +54,7 @@
 ### ORM (O/RM and O/R mapping tool)
 * [Goodel](https://github.com/7imon7ays/Goodel) [![GitHub stars](https://img.shields.io/github/stars/7imon7ays/Goodel.svg?style=social&label=Star)](https://github.com/7imon7ays/Goodel) An ORM for Google Apps scripts
 * [gs-spreadsheet-manager](https://github.com/jsoma/gs-spreadsheet-manager) [![GitHub stars](https://img.shields.io/github/stars/jsoma/gs-spreadsheet-manager.svg?style=social&label=Star)](https://github.com/jsoma/gs-spreadsheet-manager) A slightly more object-oriented, ORM-y, and altogether pleasant way of dealing with Google Spreadsheets when using Google Apps Script
+* [Sheetfu](https://github.com/socialpoint-labs/sheetfu) [![GitHub stars](https://img.shields.io/github/stars/socialpoint-labs/sheetfu.svg?style=social&label=Star)](https://github.com/socialpoint-labs/sheetfu) An ORM to treat spreadsheet as database tables using Google Apps Scripts. 
 
 ### Utility
 * [gas-underscore](https://github.com/simula-innovation/gas-underscore) [![GitHub stars](https://img.shields.io/github/stars/simula-innovation/gas-underscore.svg?style=social&label=Star)](https://github.com/simula-innovation/gas-underscore) Underscore for Google Apps Script
