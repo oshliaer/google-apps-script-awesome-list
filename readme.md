@@ -28,6 +28,7 @@
 * [mashe.hawksey.info](https://mashe.hawksey.info/category/google/google-apps-script) Martin Hawksey's site
 * [ramblings.mcpher.com](http://ramblings.mcpher.com/) Desktop Liberation - the definitive resource for Google Apps Script and Microsoft Office automation
 * [googleappscripting.com](http://googleappscripting.com) Google Apps Script Tutorials and Examples • Making Google Apps Script Accessible to Eveybody
+* [scriptsexamples](https://sites.google.com/site/scriptsexamples/custom-methods) A set of code samples and libraries to foster programming in Google AppsScript to be easy.
 * [tanaikech.github.io](https://tanaikech.github.io/tags/google-apps-script/) The `Google Apps Script` tag of the Kanshi's blog
 * [andrewroberts.net](http://www.andrewroberts.net) The Andrew Roberts's site
 * [kutil.org](http://www.kutil.org/search/label/google%20apps%20script) The `google apps script` tag of Ivan Kutil's blog
@@ -40,6 +41,9 @@
 * [ggsrun](https://github.com/tanaikech/ggsrun) [![GitHub stars](https://img.shields.io/github/stars/tanaikech/ggsrun.svg?style=social&label=Star)](https://github.com/tanaikech/ggsrun) This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [gdrive](https://github.com/prasmussen/gdrive) [![GitHub stars](https://img.shields.io/github/stars/prasmussen/gdrive.svg?style=social&label=Star)](https://github.com/prasmussen/gdrive) Google Drive CLI Client
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) [![GitHub stars](https://img.shields.io/github/stars/MaartenDesnouck/google-apps-script.svg?style=social&label=★)](https://github.com/MaartenDesnouck/google-apps-script) gas, for locally developing Google Apps Script projects
+* [gas-shell](https://github.com/JeanRemiDelteil/gas-shell) [![GitHub stars](https://img.shields.io/github/stars/JeanRemiDelteil/gas-shell.svg?style=social&label=★)](https://github.com/JeanRemiDelteil/gas-shell) Starter template to develop locally Google AppsScript project with your prefered code editor (include build and publish as Add-on commands)
+* [gas-lib](https://www.npmjs.com/package/gas-lib) [![npm](https://img.shields.io/npm/dt/gas-lib.svg)](https://www.npmjs.com/package/gas-lib) NPM package to add code auto-completion for Google AppsScript in your prefered code editor
+* [AppsScriptColor](https://chrome.google.com/webstore/detail/appsscript-color/ciggahcpieccaejjdpkllokejakhkome) *(3 700+ users)* This Chrome extension provide 2 dark color themes for the google apps script editor. It also allows to use folders to sort your files more cleanly.
 
 ## Libraries & Modules
 
