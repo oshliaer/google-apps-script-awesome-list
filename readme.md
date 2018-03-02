@@ -16,6 +16,8 @@
 - [Testing](#testing)
 - [Logging](#logging)
 - [Snippets and assorted](#snippets-and-assorted)
+  - [Snippets](#snippets)
+  - [Assorted](#assorted)
 
 <!-- /TOC -->
 ## Resources
@@ -88,6 +90,9 @@
 * [gasl](https://github.com/zixia/gasl) [![GitHub stars](https://img.shields.io/github/stars/zixia/gasl.svg?style=social&label=Star)](https://github.com/zixia/gasl) Google Apps Script Logging-framework
 
 ## Snippets and assorted
+### Snippets
+*[A function to convert an XML string to a JSON object in Apps Script, using logic similar to the sunset method Xml.parse()](https://gist.github.com/erickoledadevrel/6b1e9e2796e3c21f669f)
+### Assorted
 * [GoogleSheets](https://github.com/Max-Makhrov/GoogleSheets) [![GitHub stars](https://img.shields.io/github/stars/Max-Makhrov/GoogleSheets.svg?style=social&label=Star)](https://github.com/Max-Makhrov/GoogleSheets) best code I've tested in Google Sheets
 * [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) [![GitHub stars](https://img.shields.io/github/stars/oshliaer/google-apps-script-snippets.svg?style=social&label=Star)](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
 * [google-docs](https://github.com/fastfedora/google-docs) [![GitHub stars](https://img.shields.io/github/stars/fastfedora/google-docs.svg?style=social&label=Star)](https://github.com/fastfedora/google-docs) Libraries and functions used within Google Docs
@@ -96,4 +101,3 @@
 * [googlesamples/apps-script-templates](https://github.com/googlesamples/apps-script-templates) [![GitHub stars](https://img.shields.io/github/stars/googlesamples/apps-script-templates.svg?style=social&label=Star)](https://github.com/googlesamples/apps-script-templates) This repository contains a number of code templates for Google Apps Script that provide example frameworks for Apps Script projects
 * [derekantrican/Google-Apps-Script-Library](https://github.com/derekantrican/Google-Apps-Script-Library) [![GitHub stars](https://img.shields.io/github/stars/derekantrican/Google-Apps-Script-Library.svg?style=social&label=Star)](https://github.com/derekantrican/Google-Apps-Script-Library) A variety of functions/programs written for Google Apps Script and Google services
 * [stardotbmp/google-sheet-functions](https://github.com/stardotbmp/google-sheet-functions) [![GitHub stars](https://img.shields.io/github/stars/stardotbmp/google-sheet-functions.svg?style=social&label=Star)](https://github.com/stardotbmp/google-sheet-functions) A single repository for open sharing of custom functions I have found to be useful generally.
-
