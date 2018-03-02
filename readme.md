@@ -92,7 +92,7 @@
 
 ## Snippets and assorted
 ### Snippets
-*[A function to convert an XML string to a JSON object in Apps Script, using logic similar to the sunset method Xml.parse()](https://gist.github.com/erickoledadevrel/6b1e9e2796e3c21f669f)
+* [A function to convert an XML string to a JSON object in Apps Script, using logic similar to the sunset method Xml.parse()](https://gist.github.com/erickoledadevrel/6b1e9e2796e3c21f669f)
 ### Assorted
 * [GoogleSheets](https://github.com/Max-Makhrov/GoogleSheets) [![GitHub stars](https://img.shields.io/github/stars/Max-Makhrov/GoogleSheets.svg?style=social&label=Star)](https://github.com/Max-Makhrov/GoogleSheets) best code I've tested in Google Sheets
 * [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) [![GitHub stars](https://img.shields.io/github/stars/oshliaer/google-apps-script-snippets.svg?style=social&label=Star)](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
@@ -103,3 +103,4 @@
 * [derekantrican/Google-Apps-Script-Library](https://github.com/derekantrican/Google-Apps-Script-Library) [![GitHub stars](https://img.shields.io/github/stars/derekantrican/Google-Apps-Script-Library.svg?style=social&label=Star)](https://github.com/derekantrican/Google-Apps-Script-Library) A variety of functions/programs written for Google Apps Script and Google services
 * [stardotbmp/google-sheet-functions](https://github.com/stardotbmp/google-sheet-functions) [![GitHub stars](https://img.shields.io/github/stars/stardotbmp/google-sheet-functions.svg?style=social&label=Star)](https://github.com/stardotbmp/google-sheet-functions) A single repository for open sharing of custom functions I have found to be useful generally.
 * [googlesamples/apps-script](https://github.com/googlesamples/apps-script) Sample code for Google Apps Script, a cloud-based scripting service for Google Apps
+* [An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script)](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
