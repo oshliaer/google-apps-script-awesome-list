@@ -60,12 +60,12 @@
 * [Goodel](https://github.com/7imon7ays/Goodel) [![GitHub stars](https://img.shields.io/github/stars/7imon7ays/Goodel.svg?style=social&label=Star)](https://github.com/7imon7ays/Goodel) An ORM for Google Apps scripts
 * [gs-spreadsheet-manager](https://github.com/jsoma/gs-spreadsheet-manager) [![GitHub stars](https://img.shields.io/github/stars/jsoma/gs-spreadsheet-manager.svg?style=social&label=Star)](https://github.com/jsoma/gs-spreadsheet-manager) A slightly more object-oriented, ORM-y, and altogether pleasant way of dealing with Google Spreadsheets when using Google Apps Script
 * [Sheetfu](https://github.com/socialpoint-labs/sheetfu) [![GitHub stars](https://img.shields.io/github/stars/socialpoint-labs/sheetfu.svg?style=social&label=Star)](https://github.com/socialpoint-labs/sheetfu) An ORM to treat spreadsheet as database tables using Google Apps Scripts. 
+* [itmammoth/Tamotsu](https://github.com/itmammoth/Tamotsu) Object-Spreadsheet Mapping for Google Apps Script
 
 ### Utility
 * [gas-underscore](https://github.com/simula-innovation/gas-underscore) [![GitHub stars](https://img.shields.io/github/stars/simula-innovation/gas-underscore.svg?style=social&label=Star)](https://github.com/simula-innovation/gas-underscore) Underscore for Google Apps Script
 * [lodashgs](https://github.com/oshliaer/lodashgs) [![GitHub stars](https://img.shields.io/github/stars/oshliaer/lodashgs.svg?style=social&label=Star)](https://github.com/oshliaer/lodashgs) Lodash for Google Apps Script is a library that enables the use of the lodash.js library in Google Apps Script
 * [brucemcpherson/cUseful](https://github.com/brucemcpherson/cUseful) [![GitHub stars](https://img.shields.io/github/stars/brucemcpherson/cUseful.svg?style=social&label=Star)](https://github.com/brucemcpherson/cUseful) Various dependency free useful functions
-* [itmammoth/Tamotsu](https://github.com/itmammoth/Tamotsu) Object-Spreadsheet Mapping for Google Apps Script
 
 ### Parsing
 * [Apps-Script-htmlparser2-library](https://github.com/Spencer-Easton/Apps-Script-htmlparser2-library) [![GitHub stars](https://img.shields.io/github/stars/Spencer-Easton/Apps-Script-htmlparser2-library.svg?style=social&label=Star)](https://github.com/Spencer-Easton/Apps-Script-htmlparser2-library) A browserified version of fb55/htmlparser2 modified to work in Google Apps Script
