@@ -22,6 +22,7 @@
 * [Developing add-ons for Google Docs/Sheets/Forms](https://plus.google.com/u/0/communities/117193953428311185494) G+ Community
 * Search by label  [[google-apps-script]](https://github.com/search?q=topic%3Agoogle-apps-script) on GitHub
 * SO [[google-apps-script]](http://stackoverflow.com/questions/tagged/google-apps-script) tag
+* Medium [Google Apps Script](https://medium.com/tag/google-apps-script) tag
 
 ### Useful sites & blogs
 * [ctrlq.org](https://ctrlq.org/dev/google-apps-script) Amit Agarwal's site
