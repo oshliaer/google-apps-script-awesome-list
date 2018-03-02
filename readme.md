@@ -37,6 +37,7 @@
 
 ### Awesome code & things
 * [Making a virtual machine in Google Sheets](http://briansteffens.com/2017/07/03/google-sheets-virtual-machine.html)
+* [Easy data scraping with Google Apps Script in 5 minutes](http://www.kutil.org/2016/01/easy-data-scrapping-with-google-apps.html)
 
 ## Development
 * [node-google-apps-script](https://github.com/danthareja/node-google-apps-script) [![GitHub stars](https://img.shields.io/github/stars/danthareja/node-google-apps-script.svg?style=social&label=Star)](https://github.com/danthareja/node-google-apps-script) The easiest way to develop Google Apps Script projects
