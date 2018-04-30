@@ -86,6 +86,9 @@
 
 ## Testing
 * [gast](https://github.com/zixia/gast) [![GitHub stars](https://img.shields.io/github/stars/zixia/gast.svg?style=social&label=Star)](https://github.com/zixia/gast) Google Apps Script TAP Testing-framework
+* [GSUnit](https://sites.google.com/site/scriptsexamples/custom-methods/gsunit) is a Google Apps Script based testing framework based on JUnit by Kent Beck and JSUnit by Edward Hieatt. It will allow one to run tests while developing
+* [classroomtechtools/modularLibraries.gs/UnitTesting](https://github.com/classroomtechtools/modularLibraries.gs/tree/master/UnitTesting) 
+Assertion and unit testing of modular libraries
 
 ## Logging
 * [gasl](https://github.com/zixia/gasl) [![GitHub stars](https://img.shields.io/github/stars/zixia/gasl.svg?style=social&label=Star)](https://github.com/zixia/gasl) Google Apps Script Logging-framework
