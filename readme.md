@@ -74,6 +74,7 @@
 
 ### Parsing
 * [Apps-Script-htmlparser2-library](https://github.com/Spencer-Easton/Apps-Script-htmlparser2-library) [![GitHub stars](https://img.shields.io/github/stars/Spencer-Easton/Apps-Script-htmlparser2-library.svg?style=social&label=Star)](https://github.com/Spencer-Easton/Apps-Script-htmlparser2-library) A browserified version of fb55/htmlparser2 modified to work in Google Apps Script
+* [cheeriogs](https://github.com/asciian/cheeriogs) [![GitHub stars](https://img.shields.io/github/stars/asciian/cheeriogs.svg?style=social&label=Star)](https://github.com/asciiann/cheeriogs) HTML manipulation library with jQuery-like interface.
 
 ### oAuth
 * [apps-script-oauth2](https://github.com/googlesamples/apps-script-oauth2) [![GitHub stars](https://img.shields.io/github/stars/googlesamples/apps-script-oauth2.svg?style=social&label=Star)](https://github.com/googlesamples/apps-script-oauth2) An OAuth2 library for Google Apps Script
