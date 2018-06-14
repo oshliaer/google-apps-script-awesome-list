@@ -53,6 +53,7 @@
 * [gas-lib](https://www.npmjs.com/package/gas-lib) [![npm](https://img.shields.io/npm/dt/gas-lib.svg)](https://www.npmjs.com/package/gas-lib) NPM package to add code auto-completion for Google AppsScript in your prefered code editor
 * [AppsScriptColor](https://chrome.google.com/webstore/detail/appsscript-color/ciggahcpieccaejjdpkllokejakhkome) *(3 700+ users)* This Chrome extension provide 2 dark color themes for the google apps script editor. It also allows to use folders to sort your files more cleanly
 * [google/clasp](https://github.com/google/clasp) Develop Apps Script projects locally
+* [apps-script-starter](https://github.com/labnol/apps-script-starter) A starter kit for building Google Apps Script projects with modern JavaScript ES6, Webpack, Babel and ESLint inside Visual Studio Code.
 
 ## Libraries & Modules
 
