@@ -42,7 +42,7 @@
 * [Easy data scraping with Google Apps Script in 5 minutes](http://www.kutil.org/2016/01/easy-data-scrapping-with-google-apps.html)
 
 ## Development
-* [node-google-apps-script](https://github.com/danthareja/node-google-apps-script) [![GitHub stars](https://img.shields.io/github/stars/danthareja/node-google-apps-script.svg?style=social&label=Star)](https://github.com/danthareja/node-google-apps-script) The easiest way to develop Google Apps Script projects
+* [google/clasp](https://github.com/google/clasp) Develop Apps Script projects locally using Clasp CLI.
 * [gas-local](https://github.com/mzagorny/gas-local) [![GitHub stars](https://img.shields.io/github/stars/mzagorny/gas-local.svg?style=social&label=Star)](https://github.com/mzagorny/gas-local) Execute and test your google app scripts locally in node.js
   * [gamified_journal](https://github.com/brainysmurf/gamified_journal) [![GitHub stars](https://img.shields.io/github/stars/brainysmurf/gamified_journal.svg?style=social&label=Star)](https://github.com/brainysmurf/gamified_journal) Proof of concept of a local development / push toolchain for Google Apps Scripting
 * [gas-github](https://github.com/leonhartX/gas-github) [![GitHub stars](https://img.shields.io/github/stars/leonhartX/gas-github.svg?style=social&label=Star)](https://github.com/leonhartX/gas-github) Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
@@ -52,7 +52,6 @@
 * [gas-shell](https://github.com/JeanRemiDelteil/gas-shell) [![GitHub stars](https://img.shields.io/github/stars/JeanRemiDelteil/gas-shell.svg?style=social&label=★)](https://github.com/JeanRemiDelteil/gas-shell) Starter template to develop locally Google AppsScript project with your prefered code editor (include build and publish as Add-on commands)
 * [gas-lib](https://www.npmjs.com/package/gas-lib) [![npm](https://img.shields.io/npm/dt/gas-lib.svg)](https://www.npmjs.com/package/gas-lib) NPM package to add code auto-completion for Google AppsScript in your prefered code editor
 * [AppsScriptColor](https://chrome.google.com/webstore/detail/appsscript-color/ciggahcpieccaejjdpkllokejakhkome) *(3 700+ users)* This Chrome extension provide 2 dark color themes for the google apps script editor. It also allows to use folders to sort your files more cleanly
-* [google/clasp](https://github.com/google/clasp) Develop Apps Script projects locally
 * [apps-script-starter](https://github.com/labnol/apps-script-starter) A starter kit for building Google Apps Script projects with modern JavaScript ES6, Webpack, Babel and ESLint inside Visual Studio Code.
 * [gas-minimal-boilerplate](https://github.com/asciian/gas-minimal-boilerplate) A minimal boilerplate with webpack for Google Apps Script
 * [google-apps-script-template](https://github.com/nirazul/google-apps-script-template) A feature rich task runner for Google Apps Script to write, lint and push modern code to your documents
