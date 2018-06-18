@@ -42,7 +42,7 @@
 * [Easy data scraping with Google Apps Script in 5 minutes](http://www.kutil.org/2016/01/easy-data-scrapping-with-google-apps.html)
 
 ## Development
-* [node-google-apps-script](https://github.com/danthareja/node-google-apps-script) [![GitHub stars](https://img.shields.io/github/stars/danthareja/node-google-apps-script.svg?style=social&label=Star)](https://github.com/danthareja/node-google-apps-script) The easiest way to develop Google Apps Script projects
+* [google/clasp](https://github.com/google/clasp) Develop Apps Script projects locally using Clasp CLI.
 * [gas-local](https://github.com/mzagorny/gas-local) [![GitHub stars](https://img.shields.io/github/stars/mzagorny/gas-local.svg?style=social&label=Star)](https://github.com/mzagorny/gas-local) Execute and test your google app scripts locally in node.js
 * [gamified_journal](https://github.com/brainysmurf/gamified_journal) [![GitHub stars](https://img.shields.io/github/stars/brainysmurf/gamified_journal.svg?style=social&label=Star)](https://github.com/brainysmurf/gamified_journal) Proof of concept of a local development / push toolchain for Google Apps Scripting
 * [gas-github](https://github.com/leonhartX/gas-github) [![GitHub stars](https://img.shields.io/github/stars/leonhartX/gas-github.svg?style=social&label=Star)](https://github.com/leonhartX/gas-github) Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
