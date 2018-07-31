@@ -88,8 +88,9 @@
 ### Images & Pictures
 * [ImgApp](https://github.com/tanaikech/ImgApp) [![GitHub stars](https://img.shields.io/github/stars/tanaikech/ImgApp.svg?style=social&label=Star)](https://github.com/tanaikech/ImgApp) This is a library of image tools for Google Apps Script
 
-## Add-ons
+## Open Source Add-ons
 * [google-docs-add-on](https://github.com/Automattic/google-docs-add-on) [![GitHub stars](https://img.shields.io/github/stars/Automattic/google-docs-add-on.svg?style=social&label=Star)](https://github.com/Automattic/google-docs-add-on) Publish to WordPress from Google Docs
+* [email-studio-gmail-addon](https://github.com/labnol/email-studio-gmail-addon) Gmail add-on for Mail Merge and Email Scheduler
 
 ## Testing
 * [gast](https://github.com/zixia/gast) [![GitHub stars](https://img.shields.io/github/stars/zixia/gast.svg?style=social&label=Star)](https://github.com/zixia/gast) Google Apps Script TAP Testing-framework
