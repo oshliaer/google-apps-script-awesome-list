@@ -117,6 +117,8 @@ It will help those wants to start Google Apps script Development from scratch.
 - [brucemcpherson/cUseful](https://github.com/brucemcpherson/cUseful) Various dependency free useful functions
 - [Gexpress](https://github.com/coderofsalvation/Gexpress) Express-ish middleware for google appscript (build NODEJS-ish  applications)
 - [tanaikech/RangeListApp](https://github.com/tanaikech/RangeListApp) RangeListApp is a GAS library for retrieving, putting and replacing values for Spreadsheet by a range list with a1Notation using Google Apps Script (GAS)
+- [syslogic/google-apps-script](https://github.com/syslogic/google-apps-script) 
+CloudDatastore.gs is a client for Google Cloud Datastore, which runs as a Service Account
 
 ### Parsing
 
