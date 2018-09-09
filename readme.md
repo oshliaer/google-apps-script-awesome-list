@@ -45,6 +45,7 @@
 - [tanaikech.github.io](https://tanaikech.github.io/tags/google-apps-script/) The `Google Apps Script` tag of the Kanshi's blog
 - [andrewroberts.net](http://www.andrewroberts.net) The Andrew Roberts's site
 - [kutil.org](http://www.kutil.org/search/label/google%20apps%20script) The `google apps script` tag of Ivan Kutil's blog
+- [googleappsscript.org](http://www.googleappsscript.org/) Google Apps Script Tutorial
 
 ### Awesome code & things
 
