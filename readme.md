@@ -116,6 +116,7 @@ It will help those wants to start Google Apps script Development from scratch.
 - [lodashgs](https://github.com/oshliaer/lodashgs) Lodash for Google Apps Script is a library that enables the use of the lodash.js library in Google Apps Script
 - [brucemcpherson/cUseful](https://github.com/brucemcpherson/cUseful) Various dependency free useful functions
 - [Gexpress](https://github.com/coderofsalvation/Gexpress) Express-ish middleware for google appscript (build NODEJS-ish  applications)
+- [tanaikech/RangeListApp](https://github.com/tanaikech/RangeListApp) RangeListApp is a GAS library for retrieving, putting and replacing values for Spreadsheet by a range list with a1Notation using Google Apps Script (GAS)
 
 ### Parsing
 
