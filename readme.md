@@ -146,6 +146,7 @@ Assertion and unit testing of modular libraries
 #### Spreadsheets
 
 - [[Apps Script] Getting the unmerged ranges within a range](https://gist.github.com/erickoledadevrel/6fa9b256f41b5d7646ba6ed37e0f8018)
+- [Google Apps Script to fill in a Document template with Spreadsheet data](https://gist.github.com/mhawksey/1170597)
 
 #### XML
 
