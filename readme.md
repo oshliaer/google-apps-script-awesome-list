@@ -16,6 +16,7 @@
   - [Parsing](#parsing)
   - [oAuth](#oauth)
   - [Images & Pictures](#images--pictures)
+  - [Pack modules and universal libraries](#pack-modules-and-universal-libraries)
 - [Open Source Add-ons](#open-source-add-ons)
 - [Testing](#testing)
 - [Logging](#logging)
@@ -126,6 +127,10 @@ It will help those wants to start Google Apps script Development from scratch.
 ### Images & Pictures
 
 - [ImgApp](https://github.com/tanaikech/ImgApp) This is a library of image tools for Google Apps Script
+
+### Pack modules and universal libraries
+
+- [classroomtechtools/modularLibraries](https://github.com/classroomtechtools/modularLibraries.gs) A collection of importable, modular libraries for any gas project.
 
 [goto top ⇑](#google-apps-script-list)
 
