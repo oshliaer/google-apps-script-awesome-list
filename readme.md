@@ -17,7 +17,7 @@
   - [oAuth](#oauth)
   - [Images & Pictures](#images--pictures)
   - [Pack modules and universal libraries](#pack-modules-and-universal-libraries)
-- [Open Source Add-ons](#open-source-add-ons)
+- [Open Source Apps & Add-ons](#open-source-apps--add-ons)
 - [Testing](#testing)
 - [Logging](#logging)
 - [Snippets and assorted](#snippets-and-assorted)
@@ -134,11 +134,12 @@ It will help those wants to start Google Apps script Development from scratch.
 
 [goto top ⇑](#google-apps-script-list)
 
-## Open Source Add-ons
+## Open Source Apps & Add-ons
 
 - [google-docs-add-on](https://github.com/Automattic/google-docs-add-on) Publish to WordPress from Google Docs
 - [email-studio-gmail-addon](https://github.com/labnol/email-studio-gmail-addon) Gmail add-on for Mail Merge and Email Scheduler
 - [erickoledadevrel/crop-sheet](https://github.com/erickoledadevrel/crop-sheet) An add-on for Google Sheets that allows you to easily remove extra rows and columns
+- [ericyd/gdrive-transfer](https://github.com/ericyd/gdrive-transfer) Web app to transfer ownership of a Google Drive folder, including all sub-folders and documents
 
 [goto top ⇑](#google-apps-script-list)
 
