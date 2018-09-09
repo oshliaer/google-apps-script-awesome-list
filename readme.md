@@ -21,6 +21,7 @@
 - [Logging](#logging)
 - [Snippets and assorted](#snippets-and-assorted)
   - [Snippets](#snippets)
+    - [Lists & collections](#lists--collections)
     - [Spreadsheets](#spreadsheets)
     - [XML](#xml)
   - [Assorted](#assorted)
@@ -134,6 +135,10 @@ Assertion and unit testing of modular libraries
 ## Snippets and assorted
 
 ### Snippets
+
+#### Lists & collections
+
+- [Google Apps Script Cheat Sheet](https://github.com/jychri/google-apps-script-cheat-sheet)
 
 #### Spreadsheets
 
