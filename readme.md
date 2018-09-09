@@ -20,6 +20,8 @@
 - [Logging](#logging)
 - [Snippets and assorted](#snippets-and-assorted)
   - [Snippets](#snippets)
+    - [Spreadsheets](#spreadsheets)
+    - [XML](#xml)
   - [Assorted](#assorted)
 
 <!-- /TOC -->
@@ -127,7 +129,15 @@ Assertion and unit testing of modular libraries
 
 ### Snippets
 
+#### Spreadsheets
+
+- [[Apps Script] Getting the unmerged ranges within a range](https://gist.github.com/erickoledadevrel/6fa9b256f41b5d7646ba6ed37e0f8018)
+
+#### XML
+
 - [A function to convert an XML string to a JSON object in Apps Script, using logic similar to the sunset method Xml.parse()](https://gist.github.com/erickoledadevrel/6b1e9e2796e3c21f669f)
+
+
 
 ### Assorted
 
