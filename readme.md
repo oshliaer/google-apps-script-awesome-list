@@ -57,6 +57,8 @@
 
 - [Learning Google Apps Script](https://gist.github.com/labnol/0b67f812a827fd9babc5) The best resources for learning Google Apps Script, the glue that connects GSuite services including Gmail, Google Drive, Calendar, Maps, Analytics and more.
 
+[goto top ⇑](#google-apps-script-list)
+
 ## Development
 
 - [google/clasp](https://github.com/google/clasp) Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI.
@@ -82,6 +84,8 @@
 ### Shims and polyfills
 
 - [cEs6Shim. Using Es6 with Apps Script](http://ramblings.mcpher.com/Home/excelquirks/gassnips/es6shim)
+
+[goto top ⇑](#google-apps-script-list)
 
 ## Libraries & Modules
 
@@ -118,11 +122,15 @@
 
 - [ImgApp](https://github.com/tanaikech/ImgApp) This is a library of image tools for Google Apps Script
 
+[goto top ⇑](#google-apps-script-list)
+
 ## Open Source Add-ons
 
 - [google-docs-add-on](https://github.com/Automattic/google-docs-add-on) Publish to WordPress from Google Docs
 - [email-studio-gmail-addon](https://github.com/labnol/email-studio-gmail-addon) Gmail add-on for Mail Merge and Email Scheduler
 - [erickoledadevrel/crop-sheet](https://github.com/erickoledadevrel/crop-sheet) An add-on for Google Sheets that allows you to easily remove extra rows and columns
+
+[goto top ⇑](#google-apps-script-list)
 
 ## Testing
 
@@ -132,9 +140,13 @@
 Assertion and unit testing of modular libraries
 - [simula-innovation/qunit](https://github.com/simula-innovation/qunit) An easy-to-use JavaScript Unit Testing framework
 
+[goto top ⇑](#google-apps-script-list)
+
 ## Logging
 
 - [gasl](https://github.com/zixia/gasl) Google Apps Script Logging-framework
+
+[goto top ⇑](#google-apps-script-list)
 
 ## Snippets and assorted
 
