@@ -5,6 +5,7 @@
 - [Resources](#resources)
   - [Useful sites & blogs](#useful-sites--blogs)
   - [Awesome code & things](#awesome-code--things)
+  - [Lists](#lists)
 - [Development](#development)
   - [Starter Kits](#starter-kits)
   - [Shims and polyfills](#shims-and-polyfills)
@@ -49,6 +50,10 @@
 
 - [Making a virtual machine in Google Sheets](http://briansteffens.com/2017/07/03/google-sheets-virtual-machine.html)
 - [Easy data scraping with Google Apps Script in 5 minutes](http://www.kutil.org/2016/01/easy-data-scrapping-with-google-apps.html)
+
+### Lists
+
+- [Learning Google Apps Script](https://gist.github.com/labnol/0b67f812a827fd9babc5) The best resources for learning Google Apps Script, the glue that connects GSuite services including Gmail, Google Drive, Calendar, Maps, Analytics and more.
 
 ## Development
 
