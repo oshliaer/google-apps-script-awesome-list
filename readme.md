@@ -7,6 +7,7 @@
   - [Awesome code & things](#awesome-code--things)
 - [Development](#development)
   - [Starter Kits](#starter-kits)
+  - [Shims and polyfills](#shims-and-polyfills)
 - [Libraries & Modules](#libraries--modules)
   - [Using databases](#using-databases)
   - [ORM (O/RM and O/R mapping tool)](#orm-orm-and-or-mapping-tool)
@@ -65,6 +66,10 @@
 - [gas-minimal-boilerplate](https://github.com/asciian/gas-minimal-boilerplate) A minimal boilerplate with webpack for Google Apps Script
 - [google-apps-script-template](https://github.com/nirazul/google-apps-script-template) A feature rich task runner for Google Apps Script to write, lint and push modern code to your documents
 - [gas-shell](https://github.com/JeanRemiDelteil/gas-shell) Starter template to develop locally Google AppsScript project with your prefered code editor (include build and publish as Add-on commands)
+
+### Shims and polyfills
+
+- [cEs6Shim. Using Es6 with Apps Script](http://ramblings.mcpher.com/Home/excelquirks/gassnips/es6shim)
 
 ## Libraries & Modules
 
