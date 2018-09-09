@@ -16,6 +16,7 @@
   - [Parsing](#parsing)
   - [oAuth](#oauth)
   - [Images & Pictures](#images--pictures)
+  - [Data Studio community connectors](#data-studio-community-connectors)
   - [Pack modules and universal libraries](#pack-modules-and-universal-libraries)
 - [Open Source Apps & Add-ons](#open-source-apps--add-ons)
 - [Testing](#testing)
@@ -129,6 +130,10 @@ It will help those wants to start Google Apps script Development from scratch.
 ### Images & Pictures
 
 - [ImgApp](https://github.com/tanaikech/ImgApp) This is a library of image tools for Google Apps Script
+
+### Data Studio community connectors
+
+- [googledatastudio/community-connectors](https://github.com/googledatastudio/community-connectors) This repository contains open source content for Google Data Studio
 
 ### Pack modules and universal libraries
 
