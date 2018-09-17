@@ -77,6 +77,7 @@ It will help those wants to start Google Apps script Development from scratch.
 - [KaiShoya/autocomplete-gas](https://github.com/KaiShoya/autocomplete-gas) Google Apps Script autocompletions for [Atom editor](https://atom.io/packages/autocomplete-gas)
 - [rudimusmaximus/DevFlow](https://github.com/rudimusmaximus/DevFlow) A Dev Flow for Google Appscript
 - [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) Webpack plugin for Google Apps Script
+- [Andrew Roberts' Dev Flow](https://docs.google.com/document/d/1GgTZmY4VFzejVl7cTeKOc7PWtyZnhu-fFhysZ2ShRN4/edit#heading=h.v2f4oyhmg3cs) - Description of a dev flow using Github assistant.
 
 ### Starter Kits
 
