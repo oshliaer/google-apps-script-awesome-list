@@ -210,6 +210,6 @@ Assertion and unit testing of modular libraries
 - [An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script)](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
 - [googlescriptreference.com](http://googlescriptreference.com/) Google Script Reference
 - [rudimusmaximus/BurningGAS](https://github.com/rudimusmaximus/BurningGAS) Demonstrate various google apps script using a menu of functions inside a fresh google sheet and container bound editor
-- [GAS-Framework](https://github.com/andrewroberts/GAS-Framework) - library boilerplate that provides logging (BBLog) and error handling ([Assert](https://github.com/andrewroberts/Assert))
+- [GAS-Framework](https://github.com/andrewroberts/GAS-Framework) - library boilerplate that provides logging ([BBLog](https://github.com/andrewroberts/BBLog)) and error handling ([Assert](https://github.com/andrewroberts/Assert))
 
 [goto top ⇑](#google-apps-script-list)
