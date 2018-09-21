@@ -76,6 +76,7 @@
 - [KaiShoya/autocomplete-gas](https://github.com/KaiShoya/autocomplete-gas) Google Apps Script autocompletions for [Atom editor](https://atom.io/packages/autocomplete-gas)
 - [rudimusmaximus/DevFlow](https://github.com/rudimusmaximus/DevFlow) A Dev Flow for Google Appscript
 - [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) Webpack plugin for Google Apps Script
+- [Andrew Roberts' Dev Flow](https://docs.google.com/document/d/1GgTZmY4VFzejVl7cTeKOc7PWtyZnhu-fFhysZ2ShRN4/edit#heading=h.v2f4oyhmg3cs) - Description of a dev flow using Github assistant.
 
 ### Starter Kits
 
@@ -165,6 +166,13 @@
 ## Logging
 
 - [gasl](https://github.com/zixia/gasl) Google Apps Script Logging-framework
+- [BetterLog](https://github.com/peterherrmann/BetterLog) Logging library that extends the native apps script Logger, mainly to allow logging to a GSheet
+- [BBLog](https://github.com/andrewroberts/BBLog) Logging library that further extends BLog to give
+  - logging to a Firebase DB
+  - multiple logging instances
+  - logging of function names and line numbers
+  - log the user's email address or ID, in a full or disguised format
+  - automatically format log GSheet
 
 [goto top ⇑](#google-apps-script-list)
 
@@ -175,6 +183,7 @@
 #### Lists & collections
 
 - [Google Apps Script Cheat Sheet](https://github.com/jychri/google-apps-script-cheat-sheet)
+- [Andrew Roberts' Scripts and Snippets](http://www.andrewroberts.net/scripts-and-snippets/)
 
 #### Spreadsheets
 
@@ -199,5 +208,6 @@
 - [An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script)](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
 - [googlescriptreference.com](http://googlescriptreference.com/) Google Script Reference
 - [rudimusmaximus/BurningGAS](https://github.com/rudimusmaximus/BurningGAS) Demonstrate various google apps script using a menu of functions inside a fresh google sheet and container bound editor
+- [GAS-Framework](https://github.com/andrewroberts/GAS-Framework) - library boilerplate that provides logging ([BBLog](https://github.com/andrewroberts/BBLog)) and error handling ([Assert](https://github.com/andrewroberts/Assert))
 
 [goto top ⇑](#google-apps-script-list)
