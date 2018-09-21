@@ -49,8 +49,7 @@
 - [andrewroberts.net](http://www.andrewroberts.net) The Andrew Roberts's site
 - [kutil.org](http://www.kutil.org/search/label/google%20apps%20script) The `google apps script` tag of Ivan Kutil's blog
 - [googleappsscript.org](http://www.googleappsscript.org/) Google Apps Script Tutorial
-- [scriptingwithshiva.blogspot.com](https://scriptingwithshiva.blogspot.com/) Scripting With Shiva
-It will help those wants to start Google Apps script Development from scratch.
+- [scriptingwithshiva.blogspot.com](https://scriptingwithshiva.blogspot.com/) Scripting With Shiva It will help those wants to start Google Apps script Development from scratch.
 
 ### Awesome code & things
 
@@ -117,8 +116,7 @@ It will help those wants to start Google Apps script Development from scratch.
 - [brucemcpherson/cUseful](https://github.com/brucemcpherson/cUseful) Various dependency free useful functions
 - [Gexpress](https://github.com/coderofsalvation/Gexpress) Express-ish middleware for google appscript (build NODEJS-ish  applications)
 - [tanaikech/RangeListApp](https://github.com/tanaikech/RangeListApp) RangeListApp is a GAS library for retrieving, putting and replacing values for Spreadsheet by a range list with a1Notation using Google Apps Script (GAS)
-- [syslogic/google-apps-script](https://github.com/syslogic/google-apps-script) 
-CloudDatastore.gs is a client for Google Cloud Datastore, which runs as a Service Account
+- [syslogic/google-apps-script](https://github.com/syslogic/google-apps-script) CloudDatastore.gs is a client for Google Cloud Datastore, which runs as a Service Account
 
 ### Parsing
 
@@ -159,8 +157,7 @@ CloudDatastore.gs is a client for Google Cloud Datastore, which runs as a Servic
 
 - [gast](https://github.com/zixia/gast) Google Apps Script TAP Testing-framework
 - [GSUnit](https://sites.google.com/site/scriptsexamples/custom-methods/gsunit) is a Google Apps Script based testing framework based on JUnit by Kent Beck and JSUnit by Edward Hieatt. It will allow one to run tests while developing
-- [classroomtechtools/modularLibraries.gs/UnitTesting](https://github.com/classroomtechtools/modularLibraries.gs/tree/master/UnitTesting) 
-Assertion and unit testing of modular libraries
+- [classroomtechtools/modularLibraries.gs/UnitTesting](https://github.com/classroomtechtools/modularLibraries.gs/tree/master/UnitTesting) Assertion and unit testing of modular libraries
 - [simula-innovation/qunit](https://github.com/simula-innovation/qunit) An easy-to-use JavaScript Unit Testing framework
 
 [goto top ⇑](#google-apps-script-list)
