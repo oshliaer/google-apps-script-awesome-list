@@ -151,6 +151,7 @@
 - [ericyd/gdrive-transfer](https://github.com/ericyd/gdrive-transfer) Web app to transfer ownership of a Google Drive folder, including all sub-folders and documents
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) Google Drive Copy Folder
 - [stardotbmp/slack-gas-signup](https://github.com/stardotbmp/slack-gas-signup) Google Apps Script Html Webapp as sign-up page for a slack channel
+- [Atlassian Cloud for Gmail add-on](https://bitbucket.org/atlassian/atlassian-cloud-for-gmail) An add-on to view information about items from Jira Cloud & Bitbucket Cloud, and take action on them from Gmail.
 
 [goto top ⇑](#google-apps-script-list)
 
