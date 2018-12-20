@@ -2,31 +2,32 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [Resources](#resources)
-  - [Useful sites & blogs](#useful-sites--blogs)
-  - [Awesome code & things](#awesome-code--things)
-  - [Lists](#lists)
-- [Development](#development)
-  - [Starter Kits](#starter-kits)
-  - [Shims and polyfills](#shims-and-polyfills)
-- [Libraries & Modules](#libraries--modules)
-  - [Using databases](#using-databases)
-  - [ORM (O/RM and O/R mapping tool)](#orm-orm-and-or-mapping-tool)
-  - [Utility](#utility)
-  - [Parsing](#parsing)
-  - [oAuth](#oauth)
-  - [Images & Pictures](#images--pictures)
-  - [Data Studio community connectors](#data-studio-community-connectors)
-  - [Pack modules and universal libraries](#pack-modules-and-universal-libraries)
-- [Open Source Apps & Add-ons](#open-source-apps--add-ons)
-- [Testing](#testing)
-- [Logging](#logging)
-- [Snippets and assorted](#snippets-and-assorted)
-  - [Snippets](#snippets)
-    - [Lists & collections](#lists--collections)
-    - [Spreadsheets](#spreadsheets)
-    - [XML](#xml)
-  - [Assorted](#assorted)
+- [Google Apps Script List](#google-apps-script-list)
+  - [Resources](#resources)
+    - [Useful sites & blogs](#useful-sites--blogs)
+    - [Awesome code & things](#awesome-code--things)
+    - [Lists](#lists)
+  - [Development](#development)
+    - [Starter Kits](#starter-kits)
+    - [Shims and polyfills](#shims-and-polyfills)
+  - [Libraries & Modules](#libraries--modules)
+    - [Using databases](#using-databases)
+    - [ORM (O/RM and O/R mapping tool)](#orm-orm-and-or-mapping-tool)
+    - [Utility](#utility)
+    - [Parsing](#parsing)
+    - [oAuth](#oauth)
+    - [Images & Pictures](#images--pictures)
+    - [Data Studio community connectors](#data-studio-community-connectors)
+    - [Pack modules and universal libraries](#pack-modules-and-universal-libraries)
+  - [Open Source Apps & Add-ons](#open-source-apps--add-ons)
+  - [Testing](#testing)
+  - [Logging](#logging)
+  - [Snippets and assorted](#snippets-and-assorted)
+    - [Snippets](#snippets)
+      - [Lists & collections](#lists--collections)
+      - [Spreadsheets](#spreadsheets)
+      - [XML](#xml)
+    - [Assorted](#assorted)
 
 <!-- /TOC -->
 
@@ -151,6 +152,7 @@
 - [ericyd/gdrive-transfer](https://github.com/ericyd/gdrive-transfer) Web app to transfer ownership of a Google Drive folder, including all sub-folders and documents
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) Google Drive Copy Folder
 - [stardotbmp/slack-gas-signup](https://github.com/stardotbmp/slack-gas-signup) Google Apps Script Html Webapp as sign-up page for a slack channel
+- [Davepar/gcalendarsync](https://github.com/Davepar/gcalendarsync) Apps Script for syncing a Google Spreadsheet with Google Calendar
 
 [goto top ⇑](#google-apps-script-list)
 
