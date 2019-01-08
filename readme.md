@@ -129,7 +129,8 @@
 
 ### oAuth
 
-- [apps-script-oauth2](https://github.com/googlesamples/apps-script-oauth2) An OAuth2 library for Google Apps Script
+- [apps-script-oauth1](https://github.com/gsuitedevs/apps-script-oauth1) An OAuth1 library for Google Apps Script
+- [apps-script-oauth2](https://github.com/gsuitedevs/apps-script-oauth2) An OAuth2 library for Google Apps Script
 - [brucemcpherson/cGoa](https://github.com/brucemcpherson/cGoa) OAuth2 for Apps Script in a few lines of code
 
 ### Images & Pictures
@@ -156,6 +157,8 @@
 - [stardotbmp/slack-gas-signup](https://github.com/stardotbmp/slack-gas-signup) Google Apps Script Html Webapp as sign-up page for a slack channel
 - [Atlassian Cloud for Gmail add-on](https://bitbucket.org/atlassian/atlassian-cloud-for-gmail) An add-on to view information about items from Jira Cloud & Bitbucket Cloud, and take action on them from Gmail.
 - [Davepar/gcalendarsync](https://github.com/Davepar/gcalendarsync) Apps Script for syncing a Google Spreadsheet with Google Calendar
+- [Google Forms](https://github.com/labnol/google-forms) Google Scripts for sending emails, generating PDFs and setting response limits inside Google Forms.
+- [Website Monitor](https://github.com/labnol/website-monitor) Apps Script for monitoring the uptime of websites inside Google Sheets.
 
 [goto top ⇑](#google-apps-script-list)
 
