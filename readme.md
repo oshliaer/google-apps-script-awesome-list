@@ -217,5 +217,6 @@
 - [googlescriptreference.com](http://googlescriptreference.com/) Google Script Reference
 - [rudimusmaximus/BurningGAS](https://github.com/rudimusmaximus/BurningGAS) Demonstrate various google apps script using a menu of functions inside a fresh google sheet and container bound editor
 - [GAS-Framework](https://github.com/andrewroberts/GAS-Framework) - library boilerplate that provides logging ([BBLog](https://github.com/andrewroberts/BBLog)) and error handling ([Assert](https://github.com/andrewroberts/Assert))
+- [JSONPath](https://script.google.com/a/google.com/d/1BtmcVnmTKAxqdiHN9Q5cM6M6E5MUMzVtQjSfav-OIQxNIoACkDdlst53/edit) Extract data from complex data structures with simple expressions. Google Apps Script version of [this](https://github.com/dchester/jsonpath) library.
 
 [goto top ⇑](#google-apps-script-list)
