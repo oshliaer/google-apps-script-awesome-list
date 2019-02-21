@@ -51,6 +51,7 @@
 - [kutil.org](http://www.kutil.org/search/label/google%20apps%20script) The `google apps script` tag of Ivan Kutil's blog
 - [googleappsscript.org](http://www.googleappsscript.org/) Google Apps Script Tutorial
 - [scriptingwithshiva.blogspot.com](https://scriptingwithshiva.blogspot.com/) Scripting With Shiva It will help those wants to start Google Apps script Development from scratch
+- [benlcollins.com] (https://www.benlcollins.com/) Ben Collins's site
 
 ### Awesome code & things
 
