@@ -137,6 +137,7 @@
 ### Images & Pictures
 
 - [ImgApp](https://github.com/tanaikech/ImgApp) This is a library of image tools for Google Apps Script
+- [GPhotosApp](https://github.com/sudtanj/gas-GPhotosApp) This is a Google Photos REST API library for Google Apps scripts
 
 ### Data Studio community connectors
 
