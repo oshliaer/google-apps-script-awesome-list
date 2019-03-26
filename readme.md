@@ -137,6 +137,7 @@
 ### Images & Pictures
 
 - [ImgApp](https://github.com/tanaikech/ImgApp) This is a library of image tools for Google Apps Script
+- [GPhotosApp](https://github.com/sudtanj/gas-GPhotosApp) This is a Google Photos REST API library for Google Apps scripts
 
 ### Data Studio community connectors
 
@@ -219,5 +220,6 @@
 - [rudimusmaximus/BurningGAS](https://github.com/rudimusmaximus/BurningGAS) Demonstrate various google apps script using a menu of functions inside a fresh google sheet and container bound editor
 - [GAS-Framework](https://github.com/andrewroberts/GAS-Framework) - library boilerplate that provides logging ([BBLog](https://github.com/andrewroberts/BBLog)) and error handling ([Assert](https://github.com/andrewroberts/Assert))
 - [JSONPath](https://script.google.com/a/google.com/d/1BtmcVnmTKAxqdiHN9Q5cM6M6E5MUMzVtQjSfav-OIQxNIoACkDdlst53/edit) Extract data from complex data structures with simple expressions. Google Apps Script version of [this](https://github.com/dchester/jsonpath) library.
+- [AutoSteamGifts](https://github.com/sudtanj/AutoSteamGifts) A Modified version based on Python script by joaopsys that run on Google server using Google App Script to automatically enter every giveaway that you can afford on SteamGifts.com
 
 [goto top ⇑](#google-apps-script-list)
