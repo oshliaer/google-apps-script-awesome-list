@@ -138,6 +138,7 @@
 
 - [ImgApp](https://github.com/tanaikech/ImgApp) This is a library of image tools for Google Apps Script
 - [GPhotosApp](https://github.com/sudtanj/gas-GPhotosApp) This is a Google Photos REST API library for Google Apps scripts
+- [InstagramApp](https://github.com/sudtanj/gas-InstagramApp) Instagram images API for Google Apps scripts to download images and video
 
 ### Data Studio community connectors
 
