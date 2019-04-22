@@ -33,11 +33,11 @@
 
 ## Resources
 
-- [Google Apps Script](https://plus.google.com/communities/102471985047225101769) G+ Community
-- [Developing add-ons for Google Docs/Sheets/Forms](https://plus.google.com/u/0/communities/117193953428311185494) G+ Community
+- [Google Apps Script Community](https://groups.google.com/forum/#!forum/google-apps-script-community) Google Groups
 - Search by label  [[google-apps-script]](https://github.com/search?q=topic%3Agoogle-apps-script) on GitHub
 - SO [[google-apps-script]](http://stackoverflow.com/questions/tagged/google-apps-script) tag
 - Medium [Google Apps Script](https://medium.com/tag/google-apps-script) tag
+- Google Apps Script communities collection #85
 
 ### Useful sites & blogs
 
