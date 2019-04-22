@@ -37,7 +37,7 @@
 - Search by label  [[google-apps-script]](https://github.com/search?q=topic%3Agoogle-apps-script) on GitHub
 - SO [[google-apps-script]](http://stackoverflow.com/questions/tagged/google-apps-script) tag
 - Medium [Google Apps Script](https://medium.com/tag/google-apps-script) tag
-- Google Apps Script communities collection #85
+- Google Apps Script communities collection [#85](https://github.com/oshliaer/google-apps-script-awesome-list/issues/85) This repo's issue
 
 ### Useful sites & blogs
 
