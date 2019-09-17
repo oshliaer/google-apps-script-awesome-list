@@ -34,7 +34,7 @@
 ## Resources
 
 - [Google Apps Script Community](https://groups.google.com/forum/#!forum/google-apps-script-community) Google Groups
-- Search by label  [[google-apps-script]](https://github.com/search?q=topic%3Agoogle-apps-script) on GitHub
+- Search by label [[google-apps-script]](https://github.com/search?q=topic%3Agoogle-apps-script) on GitHub
 - SO [[google-apps-script]](http://stackoverflow.com/questions/tagged/google-apps-script) tag
 - Medium [Google Apps Script](https://medium.com/tag/google-apps-script) tag
 - Google Apps Script communities collection [#85](https://github.com/oshliaer/google-apps-script-awesome-list/issues/85) This repo's issue
@@ -74,7 +74,7 @@
 - [gdrive](https://github.com/prasmussen/gdrive) Google Drive CLI Client
 - [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) gas, for locally developing Google Apps Script projects
 - [gas-lib](https://www.npmjs.com/package/gas-lib) NPM package to add code auto-completion for Google AppsScript in your prefered code editor
-- [AppsScriptColor](https://chrome.google.com/webstore/detail/appsscript-color/ciggahcpieccaejjdpkllokejakhkome) *(3 700+ users)* This Chrome extension provide 2 dark color themes for the google apps script editor. It also allows to use folders to sort your files more cleanly
+- [AppsScriptColor](https://chrome.google.com/webstore/detail/appsscript-color/ciggahcpieccaejjdpkllokejakhkome) _(3 700+ users)_ This Chrome extension provide 2 dark color themes for the google apps script editor. It also allows to use folders to sort your files more cleanly
 - [KaiShoya/autocomplete-gas](https://github.com/KaiShoya/autocomplete-gas) Google Apps Script autocompletions for [Atom editor](https://atom.io/packages/autocomplete-gas)
 - [rudimusmaximus/DevFlow](https://github.com/rudimusmaximus/DevFlow) A Dev Flow for Google Appscript
 - [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) Webpack plugin for Google Apps Script
@@ -107,18 +107,19 @@
 - [oshliaer/alasqlgs](https://github.com/oshliaer/alasqlgs) AlaSQLGS is a library that enables the use of the AlaSQL.js library in Google Apps Script
 
 ### ORM (O/RM and O/R mapping tool)
+
 - [Goodel](https://github.com/7imon7ays/Goodel) An ORM for Google Apps scripts
 - [gs-spreadsheet-manager](https://github.com/jsoma/gs-spreadsheet-manager) A slightly more object-oriented, ORM-y, and altogether pleasant way of dealing with Google Spreadsheets when using Google Apps Script
 - [Sheetfu](https://github.com/socialpoint-labs/sheetfu) An ORM to treat spreadsheet as database tables using Google Apps Scripts. [Sheetfu's Python version](https://github.com/socialpoint-labs/sheetfu)
 - [itmammoth/Tamotsu](https://github.com/itmammoth/Tamotsu) Object-Spreadsheet Mapping for Google Apps Script
-* [Gexpress-middleware-RESTsheet](https://github.com/coderofsalvation/Gexpress-middleware-RESTsheet) Spreadsheet exposed as http REST endpoints (based on tamotsu) 
+- [Gexpress-middleware-RESTsheet](https://github.com/coderofsalvation/Gexpress-middleware-RESTsheet) Spreadsheet exposed as http REST endpoints (based on tamotsu)
 
 ### Utility
 
 - [gas-underscore](https://github.com/simula-innovation/gas-underscore) Underscore for Google Apps Script
 - [lodashgs](https://github.com/oshliaer/lodashgs) Lodash for Google Apps Script is a library that enables the use of the lodash.js library in Google Apps Script
 - [brucemcpherson/cUseful](https://github.com/brucemcpherson/cUseful) Various dependency free useful functions
-- [Gexpress](https://github.com/coderofsalvation/Gexpress) Express-ish middleware for google appscript (build NODEJS-ish  applications)
+- [Gexpress](https://github.com/coderofsalvation/Gexpress) Express-ish middleware for google appscript (build NODEJS-ish applications)
 - [tanaikech/RangeListApp](https://github.com/tanaikech/RangeListApp) RangeListApp is a GAS library for retrieving, putting and replacing values for Spreadsheet by a range list with a1Notation using Google Apps Script (GAS)
 - [syslogic/google-apps-script](https://github.com/syslogic/google-apps-script) CloudDatastore.gs is a client for Google Cloud Datastore, which runs as a Service Account
 - [Sheetbase](https://sheetbase.dev) Build REST API server, websites and apps using Google Apps Script.
