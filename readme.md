@@ -40,7 +40,7 @@
 
 ### Useful sites & blogs
 
-- [ctrlq.org](https://ctrlq.org/dev/google-apps-script) Amit Agarwal's site
+- [Digital Inspiration](https://www.labnol.org/topic/google-apps-script) Amit Agarwal's site
 - [mashe.hawksey.info](https://mashe.hawksey.info/category/google/google-apps-script) Martin Hawksey's site
 - [ramblings.mcpher.com](http://ramblings.mcpher.com/) Desktop Liberation - the definitive resource for Google Apps Script and Microsoft Office automation
 - [googleappscripting.com](http://googleappscripting.com) Google Apps Script Tutorials and Examples • Making Google Apps Script Accessible to Eveybody
@@ -165,6 +165,8 @@
 - [Davepar/gcalendarsync](https://github.com/Davepar/gcalendarsync) Apps Script for syncing a Google Spreadsheet with Google Calendar
 - [Google Forms](https://github.com/labnol/google-forms) Google Scripts for sending emails, generating PDFs and setting response limits inside Google Forms.
 - [Website Monitor](https://github.com/labnol/website-monitor) Apps Script for monitoring the uptime of websites inside Google Sheets.
+- [Gmail Unsubscriber](https://github.com/labnol/unsubscribe-gmail) Google Script for unsubscribing from emails newsletters and other bulk email in Gmail with one click. 
+
 
 [goto top ⇑](#google-apps-script-list)
 
