@@ -22,6 +22,7 @@
 - [googleappsscript.org](http://www.googleappsscript.org/) Google Apps Script Tutorial
 - [scriptingwithshiva.blogspot.com](https://scriptingwithshiva.blogspot.com/) Scripting With Shiva It will help those wants to start Google Apps script Development from scratch
 - [benlcollins.com](https://www.benlcollins.com/) Ben Collins's site
+- [pulse.appsscript.info](https://pulse.appsscript.info/) User contributed tutorials and news
 
 ### Awesome code & things
 
