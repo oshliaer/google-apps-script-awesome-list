@@ -1,35 +1,6 @@
 # Google Apps Script List
 
-<!-- TOC depthFrom:2 -->
-
-- [Google Apps Script List](#google-apps-script-list)
-  - [Resources](#resources)
-    - [Useful sites & blogs](#useful-sites--blogs)
-    - [Awesome code & things](#awesome-code--things)
-    - [Lists](#lists)
-  - [Development](#development)
-    - [Starter Kits](#starter-kits)
-    - [Shims and polyfills](#shims-and-polyfills)
-  - [Libraries & Modules](#libraries--modules)
-    - [Using databases](#using-databases)
-    - [ORM (O/RM and O/R mapping tool)](#orm-orm-and-or-mapping-tool)
-    - [Utility](#utility)
-    - [Parsing](#parsing)
-    - [oAuth](#oauth)
-    - [Images & Pictures](#images--pictures)
-    - [Data Studio community connectors](#data-studio-community-connectors)
-    - [Pack modules and universal libraries](#pack-modules-and-universal-libraries)
-  - [Open Source Apps & Add-ons](#open-source-apps--add-ons)
-  - [Testing](#testing)
-  - [Logging](#logging)
-  - [Snippets and assorted](#snippets-and-assorted)
-    - [Snippets](#snippets)
-      - [Lists & collections](#lists--collections)
-      - [Spreadsheets](#spreadsheets)
-      - [XML](#xml)
-    - [Assorted](#assorted)
-
-<!-- /TOC -->
+<!-- TOC depthFrom:2 -->autoauto- [Resources](#resources)auto  - [Useful sites & blogs](#useful-sites--blogs)auto  - [Awesome code & things](#awesome-code--things)auto  - [Lists](#lists)auto- [Development](#development)auto  - [Starter Kits](#starter-kits)auto  - [Shims and polyfills](#shims-and-polyfills)auto- [Libraries & Modules](#libraries--modules)auto  - [Using databases](#using-databases)auto  - [ORM (O/RM and O/R mapping tool)](#orm-orm-and-or-mapping-tool)auto  - [Utility](#utility)auto  - [Parsing](#parsing)auto  - [oAuth](#oauth)auto  - [Images & Pictures](#images--pictures)auto  - [Data Studio community connectors](#data-studio-community-connectors)auto  - [Pack modules and universal libraries](#pack-modules-and-universal-libraries)auto- [Open Source Apps & Add-ons](#open-source-apps--add-ons)auto- [Testing](#testing)auto- [Logging](#logging)auto- [Snippets and assorted](#snippets-and-assorted)auto  - [Snippets](#snippets)auto    - [Lists & collections](#lists--collections)auto    - [Spreadsheets](#spreadsheets)auto    - [XML](#xml)auto  - [Assorted](#assorted)autoauto<!-- /TOC -->
 
 ## Resources
 
@@ -54,11 +25,12 @@
 
 ### Awesome code & things
 
-- [Making a virtual machine in Google Sheets](http://briansteffens.com/2017/07/03/google-sheets-virtual-machine.html)
+- [Making a virtual machine in Google Sheets](http://briansteffens.com/2017/07/03/google-sheets-virtual-machine.html) Register of Apps Script consultants
 - [Easy data scraping with Google Apps Script in 5 minutes](http://www.kutil.org/2016/01/easy-data-scrapping-with-google-apps.html)
 
 ### Lists
 
+- [Apps Script consultants](https://docs.google.com/presentation/d/1U1y6Vjf5ClEof15JLw4qg7tpjpo4MHk7uhVKpjVkA9M/edit?usp=sharing)
 - [Learning Google Apps Script](https://gist.github.com/labnol/0b67f812a827fd9babc5) The best resources for learning Google Apps Script, the glue that connects GSuite services including Gmail, Google Drive, Calendar, Maps, Analytics and more
 
 [goto top ⇑](#google-apps-script-list)
