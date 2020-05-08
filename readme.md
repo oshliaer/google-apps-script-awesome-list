@@ -56,6 +56,7 @@
 
 - [Making a virtual machine in Google Sheets](http://briansteffens.com/2017/07/03/google-sheets-virtual-machine.html) Register of Apps Script consultants
 - [Easy data scraping with Google Apps Script in 5 minutes](http://www.kutil.org/2016/01/easy-data-scrapping-with-google-apps.html)
+- [Send SMS with Google Sheets and your Android Phone)(https://www.labnol.org/send-sms-google-sheets-200402)
 
 ### 1.1.3. Lists
 
