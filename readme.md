@@ -82,6 +82,7 @@
 - [Andrew Roberts' Dev Flow](https://docs.google.com/document/d/1GgTZmY4VFzejVl7cTeKOc7PWtyZnhu-fFhysZ2ShRN4/edit#heading=h.v2f4oyhmg3cs) - Description of a dev flow using Github assistant.
 - [Set up a Local Development Environment for Apps Script](https://www.youtube.com/watch?v=KxdCIbeO4Uk) - Write code faster inside VS Code.
 - [maelcaldas/clasp-types](https://github.com/maelcaldas/clasp-types) A d.ts generator for clasp projects
+- [namaggarwal/clasp-token-action] (https://github.com/namaggarwal/clasp-token-action) Github actions for clasp for CI for your AppScript projects.
 
 ### 1.2.1. Starter Kits
 
@@ -168,7 +169,7 @@
 - [Davepar/gcalendarsync](https://github.com/Davepar/gcalendarsync) Apps Script for syncing a Google Spreadsheet with Google Calendar
 - [Google Forms](https://github.com/labnol/google-forms) Google Scripts for sending emails, generating PDFs and setting response limits inside Google Forms.
 - [Website Monitor](https://github.com/labnol/website-monitor) Apps Script for monitoring the uptime of websites inside Google Sheets.
-- [Gmail Unsubscriber](https://github.com/labnol/unsubscribe-gmail) Google Script for unsubscribing from emails newsletters and other bulk email in Gmail with one click. 
+- [Gmail Unsubscriber](https://github.com/labnol/unsubscribe-gmail) Google Script for unsubscribing from emails newsletters and other bulk email in Gmail with one click.
 
 
 [goto top ⇑](#google-apps-script-list)
