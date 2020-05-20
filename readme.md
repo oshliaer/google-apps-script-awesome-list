@@ -82,7 +82,7 @@
 - [Andrew Roberts' Dev Flow](https://docs.google.com/document/d/1GgTZmY4VFzejVl7cTeKOc7PWtyZnhu-fFhysZ2ShRN4/edit#heading=h.v2f4oyhmg3cs) - Description of a dev flow using Github assistant.
 - [Set up a Local Development Environment for Apps Script](https://www.youtube.com/watch?v=KxdCIbeO4Uk) - Write code faster inside VS Code.
 - [maelcaldas/clasp-types](https://github.com/maelcaldas/clasp-types) A d.ts generator for clasp projects
-- [namaggarwal/clasp-token-action] (https://github.com/namaggarwal/clasp-token-action) Github actions for clasp for CI for your AppScript projects.
+- [namaggarwal/clasp-token-action](https://github.com/namaggarwal/clasp-token-action) Github actions for clasp for CI for your AppScript projects.
 
 ### 1.2.1. Starter Kits
 
