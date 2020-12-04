@@ -212,6 +212,10 @@
 
 [goto top ⇑](#google-apps-script-list)
 
+## Benchmarking
+
+* [Benchmark](https://gist.github.com/tanaikech/848aeafaac1ec676900bb78e3ce220b6) Benchmark: Loop for Array Processing using Google Apps Script without V8
+
 ## Snippets and assorted
 
 ### Snippets
