@@ -22,6 +22,7 @@
 * [Chatbots](#chatbots)
 * [Testing](#testing)
 * [Logging](#logging)
+* [Benchmarking](#benchmarking)
 * [Snippets and assorted](#snippets-and-assorted)
   * [Snippets](#snippets)
     * [Lists & collections](#lists--collections)
@@ -249,6 +250,7 @@
 
 * [JSON Puller](https://gist.github.com/jalcantarab/0eb43b13c97e4f784bd0be327f6ced52) Transforms the data of a given Spreadsheet Sheet to JSON.
 * [JSONPath](https://script.google.com/a/google.com/d/1BtmcVnmTKAxqdiHN9Q5cM6M6E5MUMzVtQjSfav-OIQxNIoACkDdlst53/edit) Extract data from complex data structures with simple expressions. Google Apps Script version of [this](https://github.com/dchester/jsonpath) library.
+* [ImportJSON](https://github.com/bradjasper/ImportJSON) Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
 
 ### Assorted
 
