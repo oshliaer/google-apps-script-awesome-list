@@ -63,7 +63,7 @@
 * [Easy data scraping with Google Apps Script in 5 minutes](http://www.kutil.org/2016/01/easy-data-scrapping-with-google-apps.html)
 * [Send SMS with Google Sheets and your Android Phone)(https://www.labnol.org/send-sms-google-sheets-200402)
 
-#### 1.1.2.1 Chatbots
+#### Chatbots
 
 * [Google Apps Script Sheet MQ](https://github.com/scrthq/GoogleAppsScriptSheetMQ) Google Apps Script endpoint for Hangouts Chat bot using Sheets as a message queue
 * [Facebook-bot-Google-Apps-Script](https://github.com/JZL/Facebook-bot-Google-Apps-Script) A Facebook messenger bot implemented in Google Apps Script
@@ -231,7 +231,7 @@
 * [Sample HTML/JS to parse a Google Spreadsheet](https://gist.github.com/terrywbrady/a03b25fe42959b304b1e)
 * [Example on how to export a Google sheet to various formats, includes most PDF options](https://gist.github.com/Spencer-Easton/78f9867a691e549c9c70)
 
-#### 1.7.1.3 Gmail
+#### Gmail
 
 * [Apps-Script-Gmail-Push-Notifications-v2](https://github.com/Spencer-Easton/Apps-Script-Gmail-Push-Notifications-v2) Register a Gmail account for push notifications and programmatically set up the the proper pubsub publishing channels and subscriptions
 * [Gmail2GDrive](https://github.com/ahochsteger/gmail2gdrive)  Automatically stores and sorts Gmail attachments into Google Drive folders
