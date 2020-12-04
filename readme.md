@@ -5,7 +5,6 @@
 * [Resources](#resources)
   * [Useful sites & blogs](#useful-sites--blogs)
   * [Awesome code & things](#awesome-code--things)
-    * [1.1.2.1 Chatbots](#1121-chatbots)
   * [Lists](#lists)
 * [Development](#development)
   * [Starter Kits](#starter-kits)
@@ -20,13 +19,14 @@
   * [Data Studio community connectors](#data-studio-community-connectors)
   * [Pack modules and universal libraries](#pack-modules-and-universal-libraries)
 * [Open Source Apps & Add-ons](#open-source-apps--add-ons)
+* [Chatbots](#chatbots)
 * [Testing](#testing)
 * [Logging](#logging)
 * [Snippets and assorted](#snippets-and-assorted)
   * [Snippets](#snippets)
     * [Lists & collections](#lists--collections)
     * [Spreadsheets](#spreadsheets)
-    * [1.7.1.3 Gmail](#1713-gmail)
+    * [Gmail](#gmail)
     * [XML](#xml)
     * [JSON](#json)
   * [Assorted](#assorted)
@@ -45,7 +45,7 @@
 * [Digital Inspiration](https://www.labnol.org/topic/google-apps-script) Amit Agarwal's site
 * [mashe.hawksey.info](https://mashe.hawksey.info/category/google/google-apps-script) Martin Hawksey's site
 * [ramblings.mcpher.com](http://ramblings.mcpher.com/) Desktop Liberation - the definitive resource for Google Apps Script and Microsoft Office automation
-* [googleappscripting.com](http://googleappscripting.com) Google Apps Script Tutorials and Examples • Making Google Apps Script Accessible to Eveybody
+* [googleappscripting.com](http://googleappscripting.com) Google Apps Script Tutorials and Examples • Making Google Apps Script Accessible to Everybody
 * [scriptsexamples](https://sites.google.com/site/scriptsexamples/custom-methods) A set of code samples and libraries to foster programming in Google AppsScript to be easy
 * [tanaikech.github.io](https://tanaikech.github.io/tags/google-apps-script/) The `Google Apps Script` tag of the Kanshi's blog
 * [andrewroberts.net](http://www.andrewroberts.net) The Andrew Roberts's site
@@ -63,12 +63,6 @@
 * [Easy data scraping with Google Apps Script in 5 minutes](http://www.kutil.org/2016/01/easy-data-scrapping-with-google-apps.html)
 * [Send SMS with Google Sheets and your Android Phone)(https://www.labnol.org/send-sms-google-sheets-200402)
 
-#### Chatbots
-
-* [Google Apps Script Sheet MQ](https://github.com/scrthq/GoogleAppsScriptSheetMQ) Google Apps Script endpoint for Hangouts Chat bot using Sheets as a message queue
-* [Facebook-bot-Google-Apps-Script](https://github.com/JZL/Facebook-bot-Google-Apps-Script) A Facebook messenger bot implemented in Google Apps Script
-* [GroupMe Bots with Google Apps Script](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script) Examples and resources for using the GroupMe Bot API with Google Apps Script
-
 ### Lists
 
 * [Apps Script consultants](https://docs.google.com/presentation/d/1U1y6Vjf5ClEof15JLw4qg7tpjpo4MHk7uhVKpjVkA9M/edit?usp=sharing)
@@ -85,10 +79,10 @@
 * [ggsrun](https://github.com/tanaikech/ggsrun) This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [gdrive](https://github.com/prasmussen/gdrive) Google Drive CLI Client
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) gas, for locally developing Google Apps Script projects
-* [gas-lib](https://www.npmjs.com/package/gas-lib) NPM package to add code auto-completion for Google AppsScript in your prefered code editor
+* [gas-lib](https://www.npmjs.com/package/gas-lib) NPM package to add code auto-completion for Google AppsScript in your preferred code editor
 * [AppsScriptColor](https://chrome.google.com/webstore/detail/appsscript-color/ciggahcpieccaejjdpkllokejakhkome) _(3 700+ users)_ This Chrome extension provide 2 dark color themes for the google apps script editor. It also allows to use folders to sort your files more cleanly
-* [KaiShoya/autocomplete-gas](https://github.com/KaiShoya/autocomplete-gas) Google Apps Script autocompletions for [Atom editor](https://atom.io/packages/autocomplete-gas)
-* [rudimusmaximus/DevFlow](https://github.com/rudimusmaximus/DevFlow) A Dev Flow for Google Appscript
+* [KaiShoya/autocomplete-gas](https://github.com/KaiShoya/autocomplete-gas) Google Apps Script auto completion for [Atom editor](https://atom.io/packages/autocomplete-gas)
+* [rudimusmaximus/DevFlow](https://github.com/rudimusmaximus/DevFlow) A Dev Flow for Google Apps Script
 * [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) Webpack plugin for Google Apps Script
 * [Andrew Roberts' Dev Flow](https://docs.google.com/document/d/1GgTZmY4VFzejVl7cTeKOc7PWtyZnhu-fFhysZ2ShRN4/edit#heading=h.v2f4oyhmg3cs) - Description of a dev flow using Github assistant.
 * [Set up a Local Development Environment for Apps Script](https://www.youtube.com/watch?v=KxdCIbeO4Uk) - Write code faster inside VS Code.
@@ -101,12 +95,12 @@
 * [realworld-apps-script](https://github.com/lastlink/realworld-apps-script) JWT REST API following the RealWorld API spec
 * [gas-minimal-boilerplate](https://github.com/asciian/gas-minimal-boilerplate) A minimal boilerplate with webpack for Google Apps Script
 * [google-apps-script-template](https://github.com/nirazul/google-apps-script-template) A feature rich task runner for Google Apps Script to write, lint and push modern code to your documents
-* [gas-shell](https://github.com/JeanRemiDelteil/gas-shell) Starter template to develop locally Google AppsScript project with your prefered code editor (include build and publish as Add-on commands)
+* [gas-shell](https://github.com/JeanRemiDelteil/gas-shell) Starter template to develop locally Google AppsScript project with your preferred code editor (include build and publish as Add-on commands)
 * [artnc/gas-es6-webpack](https://github.com/artnc/gas-es6-webpack) ES6+Webpack boilerplate for Google Apps Script
 * [google-app-script-ts-jest](https://github.com/lastlink/google-app-script-ts-jest) Rest api in typescript with jest unit tests working with vscode debugger
 * [howdy39/gas-clasp-starter](https://github.com/howdy39/gas-clasp-starter) A starter template for Google Apps Script by clasp
 * [zaki-yama/webpack-google-apps-script-template](https://github.com/zaki-yama/webpack-google-apps-script-template) Template for developing Google Apps Script with Webpack
-* [JeanRemiDelteil/gas-starter-kit](https://github.com/JeanRemiDelteil/gas-starter-kit) Empty projet to start develop in Google AppsScript locally
+* [JeanRemiDelteil/gas-starter-kit](https://github.com/JeanRemiDelteil/gas-starter-kit) Empty project to start develop in Google AppsScript locally
 * [faresd/google-apps-script_travis-ci](https://github.com/faresd/google-apps-script_travis-ci) Automating Apps Script build, test, deployment and publishing in Chrome Webstore as an add-on using Travis CI
 * [sao-clasp](https://github.com/takanakahiko/sao-clasp) With one command, Generate a Google Apps Script project that uses clasp
 * [gazf/google-apps-script-ci-starter](https://github.com/gazf/google-apps-script-ci-starter) Google Apps Script with CI/CD(wercker) Starter Kit
@@ -191,8 +185,15 @@
 * [Website Monitor](https://github.com/labnol/website-monitor) Apps Script for monitoring the uptime of websites inside Google Sheets.
 * [Gmail Unsubscriber](https://github.com/labnol/unsubscribe-gmail) Google Script for unsubscribing from emails newsletters and other bulk email in Gmail with one click.
 * [Flubaroo](https://github.com/edcodeorg/flubaroo) Add-on for Google Spreadsheets that allows teachers to quickly grade assignments, get insights into student performance, and share grades with their students electronically
+* [Code Blocks](https://github.com/alexwforsythe/code-blocks) Syntax highlighting for Google Docs
 
 [goto top ⇑](#google-apps-script-list)
+
+## Chatbots
+
+* [Google Apps Script Sheet MQ](https://github.com/scrthq/GoogleAppsScriptSheetMQ) Google Apps Script endpoint for Hangouts Chat bot using Sheets as a message queue
+* [Facebook-bot-Google-Apps-Script](https://github.com/JZL/Facebook-bot-Google-Apps-Script) A Facebook messenger bot implemented in Google Apps Script
+* [GroupMe Bots with Google Apps Script](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script) Examples and resources for using the GroupMe Bot API with Google Apps Script
 
 ## Testing
 
