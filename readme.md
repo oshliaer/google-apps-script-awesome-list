@@ -35,7 +35,7 @@
 - [Google Apps Script Community](https://groups.google.com/forum/#!forum/google-apps-script-community) Google Groups
 - Search by label [[google-apps-script]](https://github.com/search?q=topic%3Agoogle-apps-script) on GitHub
 - SO [[google-apps-script]](http://stackoverflow.com/questions/tagged/google-apps-script) tag
-- Google Apps Script communities collection [#85](issues/85)
+- Google Apps Script communities collection [#85](https://github.com/contributorpw/google-apps-script-awesome-list/issues/85)
 
 ### Useful sites & blogs
 
