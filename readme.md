@@ -35,7 +35,7 @@
 - [Google Apps Script Community](https://groups.google.com/forum/#!forum/google-apps-script-community) Google Groups
 - Search by label [[google-apps-script]](https://github.com/search?q=topic%3Agoogle-apps-script) on GitHub
 - SO [[google-apps-script]](http://stackoverflow.com/questions/tagged/google-apps-script) tag
-- Google Apps Script communities collection [# ](https://github.com/oshliaer/google-apps-script-awesome-list/issues/85) This repo's issue
+- Google Apps Script communities collection #85
 
 ### Useful sites & blogs
 
@@ -51,11 +51,20 @@
 - [scriptingwithshiva.blogspot.com](https://scriptingwithshiva.blogspot.com/) Scripting With Shiva It will help those wants to start Google Apps script Development from scratch
 - [benlcollins.com](https://www.benlcollins.com/) Ben Collins's site
 - [pulse.appsscript.info](https://pulse.appsscript.info/) User contributed tutorials and news
+- [yagisanatode.com](https://yagisanatode.com/) Section in Yagi's blog about `Google Apps Script`, including tutorials and templates
+- [script.gs](https://script.gs/) Discussions, tutorials and tips about Google Apps Script and related technologies
 
 ### Awesome code & things
 
 - [Making a virtual machine in Google Sheets](http://briansteffens.com/2017/07/03/google-sheets-virtual-machine.html) Register of Apps Script consultants
 - [Easy data scraping with Google Apps Script in 5 minutes](http://www.kutil.org/2016/01/easy-data-scrapping-with-google-apps.html)
+- [Send SMS with Google Sheets and your Android Phone)(https://www.labnol.org/send-sms-google-sheets-200402)
+
+#### 1.1.2.1 Chatbots
+
+- [Google Apps Script Sheet MQ](https://github.com/scrthq/GoogleAppsScriptSheetMQ) Google Apps Script endpoint for Hangouts Chat bot using Sheets as a message queue
+- [Facebook-bot-Google-Apps-Script](https://github.com/JZL/Facebook-bot-Google-Apps-Script) A Facebook messenger bot implemented in Google Apps Script
+- [GroupMe Bots with Google Apps Script](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script) Examples and resources for using the GroupMe Bot API with Google Apps Script
 
 ### Lists
 
@@ -81,6 +90,7 @@
 - [Andrew Roberts' Dev Flow](https://docs.google.com/document/d/1GgTZmY4VFzejVl7cTeKOc7PWtyZnhu-fFhysZ2ShRN4/edit#heading=h.v2f4oyhmg3cs) - Description of a dev flow using Github assistant.
 - [Set up a Local Development Environment for Apps Script](https://www.youtube.com/watch?v=KxdCIbeO4Uk) - Write code faster inside VS Code.
 - [maelcaldas/clasp-types](https://github.com/maelcaldas/clasp-types) A d.ts generator for clasp projects
+- [namaggarwal/clasp-token-action](https://github.com/namaggarwal/clasp-token-action) Github actions for clasp for CI for your AppScript projects.
 
 ### Starter Kits
 
@@ -90,11 +100,13 @@
 - [google-apps-script-template](https://github.com/nirazul/google-apps-script-template) A feature rich task runner for Google Apps Script to write, lint and push modern code to your documents
 - [gas-shell](https://github.com/JeanRemiDelteil/gas-shell) Starter template to develop locally Google AppsScript project with your prefered code editor (include build and publish as Add-on commands)
 - [artnc/gas-es6-webpack](https://github.com/artnc/gas-es6-webpack) ES6+Webpack boilerplate for Google Apps Script
+- [google-app-script-ts-jest](https://github.com/lastlink/google-app-script-ts-jest) Rest api in typescript with jest unit tests working with vscode debugger
 - [howdy39/gas-clasp-starter](https://github.com/howdy39/gas-clasp-starter) A starter template for Google Apps Script by clasp
 - [zaki-yama/webpack-google-apps-script-template](https://github.com/zaki-yama/webpack-google-apps-script-template) Template for developing Google Apps Script with Webpack
 - [JeanRemiDelteil/gas-starter-kit](https://github.com/JeanRemiDelteil/gas-starter-kit) Empty projet to start develop in Google AppsScript locally
 - [faresd/google-apps-script_travis-ci](https://github.com/faresd/google-apps-script_travis-ci) Automating Apps Script build, test, deployment and publishing in Chrome Webstore as an add-on using Travis CI
 - [sao-clasp](https://github.com/takanakahiko/sao-clasp) With one command, Generate a Google Apps Script project that uses clasp
+- [gazf/google-apps-script-ci-starter](https://github.com/gazf/google-apps-script-ci-starter) Google Apps Script with CI/CD(wercker) Starter Kit
 
 ### Shims and polyfills
 
@@ -103,6 +115,8 @@
 [goto top ⇑](#google-apps-script-list)
 
 ## Libraries & Modules
+
+- [Google Apps Script Library Database](https://github.com/tanaikech/Google-Apps-Script-Library-Database) Directory with more than 200 libraries
 
 ### Using databases
 
@@ -116,6 +130,7 @@
 - [Sheetfu](https://github.com/socialpoint-labs/sheetfu) An ORM to treat spreadsheet as database tables using Google Apps Scripts. [Sheetfu's Python version](https://github.com/socialpoint-labs/sheetfu)
 - [itmammoth/Tamotsu](https://github.com/itmammoth/Tamotsu) Object-Spreadsheet Mapping for Google Apps Script
 - [Gexpress-middleware-RESTsheet](https://github.com/coderofsalvation/Gexpress-middleware-RESTsheet) Spreadsheet exposed as http REST endpoints (based on tamotsu)
+ -[GoogleScriptSQL](https://github.com/YionoFr/GoogleScriptSQL) How to transform Google Sheet and Google App script into a SQL Database
 
 ### Utility
 
@@ -126,6 +141,11 @@
 - [tanaikech/RangeListApp](https://github.com/tanaikech/RangeListApp) RangeListApp is a GAS library for retrieving, putting and replacing values for Spreadsheet by a range list with a1Notation using Google Apps Script (GAS)
 - [syslogic/google-apps-script](https://github.com/syslogic/google-apps-script) CloudDatastore.gs is a client for Google Cloud Datastore, which runs as a Service Account
 - [Sheetbase](https://sheetbase.dev) Build REST API server, websites and apps using Google Apps Script.
+- [UrlShortener](https://github.com/mhawksey/UrlShortener) A replacement for the Google Apps Script UrlShortener advanced service that uses bit.ly
+- [michalliu/google-app-script-jsonrpc](https://github.com/michalliu/google-app-script-jsonrpc) An implementation of JSON-RPC 2.0 specification
+- [johndturn/google-apps-script-storageservice](https://github.com/johndturn/google-apps-script-storageservice) Utility class (built in TypeScript) for storing small or large values in Google Apps Script properties
+- [GetEditType](https://github.com/tanaikech/GetEditType) Library for retrieving the edit types of the OnEdit event trigger of Spreadsheet using Google Apps Script
+- [zlib.js for Google Apps Script](https://github.com/takumab21/zlib.js) Compact zlib, deflate, inflate, zip library in Google Apps Script
 
 ### Parsing
 
@@ -150,7 +170,7 @@
 
 ### Pack modules and universal libraries
 
-- [classroomtechtools/modularLibraries](https://github.com/classroomtechtools/modularLibraries.gs) A collection of importable, modular libraries for any gas project
+- [classroomtechtools/modularLibraries](https://github.com/classroomtechtools/modularLibraries.gs) A collection of importable, modular libraries for any GAS project
 
 [goto top ⇑](#google-apps-script-list)
 
@@ -166,8 +186,8 @@
 - [Davepar/gcalendarsync](https://github.com/Davepar/gcalendarsync) Apps Script for syncing a Google Spreadsheet with Google Calendar
 - [Google Forms](https://github.com/labnol/google-forms) Google Scripts for sending emails, generating PDFs and setting response limits inside Google Forms.
 - [Website Monitor](https://github.com/labnol/website-monitor) Apps Script for monitoring the uptime of websites inside Google Sheets.
-- [Gmail Unsubscriber](https://github.com/labnol/unsubscribe-gmail) Google Script for unsubscribing from emails newsletters and other bulk email in Gmail with one click. 
-
+- [Gmail Unsubscriber](https://github.com/labnol/unsubscribe-gmail) Google Script for unsubscribing from emails newsletters and other bulk email in Gmail with one click.
+- [Flubaroo](https://github.com/edcodeorg/flubaroo) Add-on for Google Spreadsheets that allows teachers to quickly grade assignments, get insights into student performance, and share grades with their students electronically
 
 [goto top ⇑](#google-apps-script-list)
 
@@ -201,31 +221,44 @@
 
 - [Google Apps Script Cheat Sheet](https://github.com/jychri/google-apps-script-cheat-sheet)
 - [Andrew Roberts' Scripts and Snippets](http://www.andrewroberts.net/scripts-and-snippets/)
+- [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
+- [google/google-apps-script-samples](https://github.com/google/google-apps-script-samples) Various sample code and projects for the Google Apps Script platform
+- [googlesamples/apps-script-templates](https://github.com/googlesamples/apps-script-templates) This repository contains a number of code templates for Google Apps Script that provide example frameworks for Apps Script projects
 
 #### Spreadsheets
 
 - [[Apps Script] Getting the unmerged ranges within a range](https://gist.github.com/erickoledadevrel/6fa9b256f41b5d7646ba6ed37e0f8018)
 - [Google Apps Script to fill in a Document template with Spreadsheet data](https://gist.github.com/mhawksey/1170597)
+- [ReshapeReshaping functions for Google Spreadsheets](https://github.com/rgertenbach/Reshape)
+- [Sample HTML/JS to parse a Google Spreadsheet](https://gist.github.com/terrywbrady/a03b25fe42959b304b1e)
+- [Example on how to export a Google sheet to various formats, includes most PDF options](https://gist.github.com/Spencer-Easton/78f9867a691e549c9c70)
+
+#### 1.7.1.3 Gmail
+
+- [Apps-Script-Gmail-Push-Notifications-v2](https://github.com/Spencer-Easton/Apps-Script-Gmail-Push-Notifications-v2) Register a Gmail account for push notifications and programmatically set up the the proper pubsub publishing channels and subscriptions
+- [Gmail2GDrive](https://github.com/ahochsteger/gmail2gdrive)  Automatically stores and sorts Gmail attachments into Google Drive folders
 
 #### XML
 
 - [A function to convert an XML string to a JSON object in Apps Script, using logic similar to the sunset method Xml.parse()](https://gist.github.com/erickoledadevrel/6b1e9e2796e3c21f669f)
 
+#### JSON
+
+- [JSON Puller](https://gist.github.com/jalcantarab/0eb43b13c97e4f784bd0be327f6ced52) Transforms the data of a given Spreadsheet Sheet to JSON.
+- [JSONPath](https://script.google.com/a/google.com/d/1BtmcVnmTKAxqdiHN9Q5cM6M6E5MUMzVtQjSfav-OIQxNIoACkDdlst53/edit) Extract data from complex data structures with simple expressions. Google Apps Script version of [this](https://github.com/dchester/jsonpath) library.
+
 ### Assorted
 
 - [GoogleSheets](https://github.com/Max-Makhrov/GoogleSheets) best code I've tested in Google Sheets
-- [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
 - [google-docs](https://github.com/fastfedora/google-docs) Libraries and functions used within Google Docs
 - [youtube/api-samples/apps-script](https://github.com/youtube/api-samples/tree/master/apps-script/snippets) The youtube-data-api.gs file in this directory contains code snippets that are generated by the Data API code snippet tool at: https://developers.google.com/youtube/v3/code_samples/code_snippets
-- [google/google-apps-script-samples](https://github.com/google/google-apps-script-samples) Various sample code and projects for the Google Apps Script platform
-- [googlesamples/apps-script-templates](https://github.com/googlesamples/apps-script-templates) This repository contains a number of code templates for Google Apps Script that provide example frameworks for Apps Script projects
 - [derekantrican/Google-Apps-Script-Library](https://github.com/derekantrican/Google-Apps-Script-Library) A variety of functions/programs written for Google Apps Script and Google services
 - [stardotbmp/google-sheet-functions](https://github.com/stardotbmp/google-sheet-functions) A single repository for open sharing of custom functions I have found to be useful generally
 - [googlesamples/apps-script](https://github.com/googlesamples/apps-script) Sample code for Google Apps Script, a cloud-based scripting service for Google Apps
 - [An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script)](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
-- [rudimusmaximus/BurningGAS](https://github.com/rudimusmaximus/BurningGAS) Demonstrate various google apps script using a menu of functions inside a fresh google sheet and container bound editor
+- [rudimusmaximus/BurningGAS](https://github.com/rudimusmaximus/BurningGAS) Demonstrate various Google Apps Script using a menu of functions inside a fresh Google Sheet and container bound editor
 - [GAS-Framework](https://github.com/andrewroberts/GAS-Framework) - library boilerplate that provides logging ([BBLog](https://github.com/andrewroberts/BBLog)) and error handling ([Assert](https://github.com/andrewroberts/Assert))
-- [JSONPath](https://script.google.com/a/google.com/d/1BtmcVnmTKAxqdiHN9Q5cM6M6E5MUMzVtQjSfav-OIQxNIoACkDdlst53/edit) Extract data from complex data structures with simple expressions. Google Apps Script version of [this](https://github.com/dchester/jsonpath) library.
 - [AutoSteamGifts](https://github.com/sudtanj/AutoSteamGifts) A Modified version based on Python script by joaopsys that run on Google server using Google App Script to automatically enter every giveaway that you can afford on SteamGifts.com
+- [BkperApp](https://github.com/bkper/bkper-app) A simple and secure way to access the Bkper API through Google Apps Script infrastructure
 
 [goto top ⇑](#google-apps-script-list)
