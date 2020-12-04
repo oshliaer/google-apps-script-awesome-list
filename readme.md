@@ -71,7 +71,7 @@
 * [Google Apps Script Cheat Sheet](https://github.com/jychri/google-apps-script-cheat-sheet)
 * [Andrew Roberts' Scripts and Snippets](http://www.andrewroberts.net/scripts-and-snippets/)
 * [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
-* [google/google-apps-script-samples](https://github.com/google/google-apps-script-samples) Various sample code and projects for the Google Apps Script platform
+* [googleworkspace/google-apps-script-samples](https://github.com/googleworkspace/google-apps-script-samples) Various sample code and projects for the Google Apps Script platform
 * [googlesamples/apps-script-templates](https://github.com/googlesamples/apps-script-templates) This repository contains a number of code templates for Google Apps Script that provide example frameworks for Apps Script projects
 
 [goto top ⇑](#google-apps-script-list)
