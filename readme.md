@@ -111,6 +111,8 @@
 * [faresd/google-apps-script_travis-ci](https://github.com/faresd/google-apps-script_travis-ci) Automating Apps Script build, test, deployment and publishing in Chrome Webstore as an add-on using Travis CI
 * [sao-clasp](https://github.com/takanakahiko/sao-clasp) With one command, Generate a Google Apps Script project that uses clasp
 * [gazf/google-apps-script-ci-starter](https://github.com/gazf/google-apps-script-ci-starter) Google Apps Script with CI/CD(wercker) Starter Kit
+* [PopGoesTheWza/ts-gas-project-starter](https://github.com/PopGoesTheWza/ts-gas-project-starter) Sample repository for Typescript based Google Apps Script projects
+* [enuchi/React-Google-Apps-Script](https://github.com/enuchi/React-Google-Apps-Script) This is your boilerplate project for developing React apps inside Google Sheets, Docs, Forms and Slides projects. It's perfect for personal projects and for publishing complex add-ons in the G Suite Marketplace.
 
 ### Shims and polyfills
 
@@ -202,6 +204,7 @@
 * [Google Apps Script Sheet MQ](https://github.com/scrthq/GoogleAppsScriptSheetMQ) Google Apps Script endpoint for Hangouts Chat bot using Sheets as a message queue
 * [Facebook-bot-Google-Apps-Script](https://github.com/JZL/Facebook-bot-Google-Apps-Script) A Facebook messenger bot implemented in Google Apps Script
 * [GroupMe Bots with Google Apps Script](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script) Examples and resources for using the GroupMe Bot API with Google Apps Script
+* [Viber/build-a-bot-with-zero-coding](https://github.com/Viber/build-a-bot-with-zero-coding) An example of using Google Sheets to create a Viber survey chat bot without a backend server
 
 ## Testing
 
