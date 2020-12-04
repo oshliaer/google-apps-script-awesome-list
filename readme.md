@@ -64,10 +64,15 @@
 * [Easy data scraping with Google Apps Script in 5 minutes](http://www.kutil.org/2016/01/easy-data-scrapping-with-google-apps.html)
 * [Send SMS with Google Sheets and your Android Phone)(https://www.labnol.org/send-sms-google-sheets-200402)
 
-### Lists
+### Lists & collections
 
 * [Apps Script consultants](https://docs.google.com/presentation/d/1U1y6Vjf5ClEof15JLw4qg7tpjpo4MHk7uhVKpjVkA9M/edit?usp=sharing)
 * [Learning Google Apps Script](https://gist.github.com/labnol/0b67f812a827fd9babc5) The best resources for learning Google Apps Script, the glue that connects GSuite services including Gmail, Google Drive, Calendar, Maps, Analytics and more
+* [Google Apps Script Cheat Sheet](https://github.com/jychri/google-apps-script-cheat-sheet)
+* [Andrew Roberts' Scripts and Snippets](http://www.andrewroberts.net/scripts-and-snippets/)
+* [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
+* [google/google-apps-script-samples](https://github.com/google/google-apps-script-samples) Various sample code and projects for the Google Apps Script platform
+* [googlesamples/apps-script-templates](https://github.com/googlesamples/apps-script-templates) This repository contains a number of code templates for Google Apps Script that provide example frameworks for Apps Script projects
 
 [goto top ⇑](#google-apps-script-list)
 
@@ -220,14 +225,6 @@
 ## Snippets and assorted
 
 ### Snippets
-
-#### Lists & collections
-
-* [Google Apps Script Cheat Sheet](https://github.com/jychri/google-apps-script-cheat-sheet)
-* [Andrew Roberts' Scripts and Snippets](http://www.andrewroberts.net/scripts-and-snippets/)
-* [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
-* [google/google-apps-script-samples](https://github.com/google/google-apps-script-samples) Various sample code and projects for the Google Apps Script platform
-* [googlesamples/apps-script-templates](https://github.com/googlesamples/apps-script-templates) This repository contains a number of code templates for Google Apps Script that provide example frameworks for Apps Script projects
 
 #### Spreadsheets
 
