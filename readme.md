@@ -113,6 +113,7 @@
 * [gazf/google-apps-script-ci-starter](https://github.com/gazf/google-apps-script-ci-starter) Google Apps Script with CI/CD(wercker) Starter Kit
 * [PopGoesTheWza/ts-gas-project-starter](https://github.com/PopGoesTheWza/ts-gas-project-starter) Sample repository for Typescript based Google Apps Script projects
 * [enuchi/React-Google-Apps-Script](https://github.com/enuchi/React-Google-Apps-Script) This is your boilerplate project for developing React apps inside Google Sheets, Docs, Forms and Slides projects. It's perfect for personal projects and for publishing complex add-ons in the G Suite Marketplace.
+* [atti187/esmodules](https://github.com/atti187/esmodules) Example repo of using esmodules with Apps Script
 
 ### Shims and polyfills
 
