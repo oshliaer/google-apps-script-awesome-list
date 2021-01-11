@@ -5,7 +5,7 @@
 * [Resources](#resources)
   * [Useful sites & blogs](#useful-sites--blogs)
   * [Awesome code & things](#awesome-code--things)
-  * [Lists](#lists)
+  * [Lists & collections](#lists--collections)
 * [Development](#development)
   * [Starter Kits](#starter-kits)
   * [Shims and polyfills](#shims-and-polyfills)
@@ -18,6 +18,7 @@
   * [Images & Pictures](#images--pictures)
   * [Data Studio community connectors](#data-studio-community-connectors)
   * [Pack modules and universal libraries](#pack-modules-and-universal-libraries)
+  * [Services](#services)
 * [Open Source Apps & Add-ons](#open-source-apps--add-ons)
 * [Chatbots](#chatbots)
 * [Testing](#testing)
@@ -25,7 +26,6 @@
 * [Benchmarking](#benchmarking)
 * [Snippets and assorted](#snippets-and-assorted)
   * [Snippets](#snippets)
-    * [Lists & collections](#lists--collections)
     * [Spreadsheets](#spreadsheets)
     * [Gmail](#gmail)
     * [XML](#xml)
@@ -181,6 +181,10 @@
 ### Pack modules and universal libraries
 
 * [classroomtechtools/modularLibraries](https://github.com/classroomtechtools/modularLibraries.gs) A collection of importable, modular libraries for any GAS project
+
+### Services
+
+* [pamnard/Tinkoff-REST-API-via-Google-Apps-Script: Обёртка Tinkoff API на Google Apps Script (не официальная)](https://github.com/pamnard/Tinkoff-REST-API-via-Google-Apps-Script) A wrapper of Tinkoff REST API
 
 [goto top ⇑](#google-apps-script-list)
 
