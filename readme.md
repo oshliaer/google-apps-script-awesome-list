@@ -71,7 +71,7 @@
 * [Google Apps Script Cheat Sheet](https://github.com/jychri/google-apps-script-cheat-sheet)
 * [Andrew Roberts' Scripts and Snippets](http://www.andrewroberts.net/scripts-and-snippets/)
 * [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
-* [googleworkspace/google-apps-script-samples](https://github.com/googleworkspace/google-apps-script-samples) Various sample code and projects for the Google Apps Script platform
+* [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) Various sample code and projects for the Google Apps Script platform
 * [googlesamples/apps-script-templates](https://github.com/googlesamples/apps-script-templates) This repository contains a number of code templates for Google Apps Script that provide example frameworks for Apps Script projects
 
 [goto top ⇑](#google-apps-script-list)
@@ -154,6 +154,8 @@
 * [GetEditType](https://github.com/tanaikech/GetEditType) Library for retrieving the edit types of the OnEdit event trigger of Spreadsheet using Google Apps Script
 * [zlib.js for Google Apps Script](https://github.com/takumab21/zlib.js) Compact zlib, deflate, inflate, zip library in Google Apps Script
 * [tanaikech/FetchApp](https://github.com/tanaikech/FetchApp) This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
+* [Apps Script Code Generator](https://www.labnol.org/apps/urlfetch.html) Generate "ready to run" code snippets for making HTTP requests with Google Apps Script. It supports query parameters, authorization, request body and headers.
+
 
 ### Parsing
 
