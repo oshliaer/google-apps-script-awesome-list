@@ -180,6 +180,10 @@
 
 * [classroomtechtools/modularLibraries](https://github.com/classroomtechtools/modularLibraries.gs) A collection of importable, modular libraries for any GAS project
 
+### services
+
+* [pamnard/Tinkoff-REST-API-via-Google-Apps-Script: Обёртка Tinkoff API на Google Apps Script (не официальная)](https://github.com/pamnard/Tinkoff-REST-API-via-Google-Apps-Script) A wrapper of Tinkoff REST API
+
 [goto top ⇑](#google-apps-script-list)
 
 ## Open Source Apps & Add-ons
