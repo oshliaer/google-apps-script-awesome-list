@@ -219,6 +219,8 @@
 * [GSUnit](https://sites.google.com/site/scriptsexamples/custom-methods/gsunit) is a Google Apps Script based testing framework based on JUnit by Kent Beck and JSUnit by Edward Hieatt. It will allow one to run tests while developing
 * [classroomtechtools/modularLibraries.gs/UnitTesting](https://github.com/classroomtechtools/modularLibraries.gs/tree/master/UnitTesting) Assertion and unit testing of modular libraries
 * [simula-innovation/qunit](https://github.com/simula-innovation/qunit) An easy-to-use JavaScript Unit Testing framework
+* [artofthesmart/QUnitGS2](https://github.com/artofthesmart/QUnitGS2) A Google Apps Script library that brings the power and simplicity of QUnit unit testing to your scripts and applications. In just 60 seconds you can add unit testing to any script.
+* [gasunit/GASUnit](https://github.com/gasunit/GASUnit) Testing library for Google Apps Script
 
 [goto top ⇑](#google-apps-script-list)
 
