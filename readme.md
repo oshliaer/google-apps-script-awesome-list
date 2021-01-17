@@ -215,7 +215,7 @@
 
 ## Testing
 
-* [gast](https://github.com/zixia/gast) Google Apps Script TAP Testing-framework
+* [huan/gast](https://github.com/huan/gast) Google Apps Script TAP Testing-framework
 * [GSUnit](https://sites.google.com/site/scriptsexamples/custom-methods/gsunit) is a Google Apps Script based testing framework based on JUnit by Kent Beck and JSUnit by Edward Hieatt. It will allow one to run tests while developing
 * [classroomtechtools/modularLibraries.gs/UnitTesting](https://github.com/classroomtechtools/modularLibraries.gs/tree/master/UnitTesting) Assertion and unit testing of modular libraries
 * [simula-innovation/qunit](https://github.com/simula-innovation/qunit) An easy-to-use JavaScript Unit Testing framework
@@ -226,7 +226,7 @@
 
 ## Logging
 
-* [gasl](https://github.com/zixia/gasl) Google Apps Script Logging-framework
+* [huan/gasl](https://github.com/huan/gasl) Google Apps Script Logging-framework
 * [BetterLog](https://github.com/peterherrmann/BetterLog) Logging library that extends the native apps script Logger, mainly to allow logging to a GSheet
 * [BBLog](https://github.com/andrewroberts/BBLog) Logging library that further extends BLog to give logging to a Firebase DB multiple logging instances logging of function names and line numbers log the user's email address or ID, in a full or disguised format automatically format log GSheet
 
