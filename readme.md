@@ -203,6 +203,7 @@
 * [Gmail Unsubscriber](https://github.com/labnol/unsubscribe-gmail) Google Script for unsubscribing from emails newsletters and other bulk email in Gmail with one click.
 * [Flubaroo](https://github.com/edcodeorg/flubaroo) Add-on for Google Spreadsheets that allows teachers to quickly grade assignments, get insights into student performance, and share grades with their students electronically
 * [Code Blocks](https://github.com/alexwforsythe/code-blocks) Syntax highlighting for Google Docs
+* [Data Connector](https://github.com/brentadamson/dataconnector) Import JSON and other data to Google Sheets
 
 [goto top ⇑](#google-apps-script-list)
 
