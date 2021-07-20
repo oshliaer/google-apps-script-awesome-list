@@ -26,6 +26,7 @@
 * [Benchmarking](#benchmarking)
 * [Snippets and assorted](#snippets-and-assorted)
   * [Snippets](#snippets)
+    * [Collections](#collections)
     * [Spreadsheets](#spreadsheets)
     * [Gmail](#gmail)
     * [XML](#xml)
@@ -156,7 +157,6 @@
 * [tanaikech/FetchApp](https://github.com/tanaikech/FetchApp) This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
 * [Apps Script Code Generator](https://www.labnol.org/apps/urlfetch.html) Generate "ready to run" code snippets for making HTTP requests with Google Apps Script. It supports query parameters, authorization, request body and headers.
 
-
 ### Parsing
 
 * [Apps-Script-htmlparser2-library](https://github.com/Spencer-Easton/Apps-Script-htmlparser2-library) A browserified version of fb55/htmlparser2 modified to work in Google Apps Script
@@ -214,6 +214,8 @@
 * [GroupMe Bots with Google Apps Script](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script) Examples and resources for using the GroupMe Bot API with Google Apps Script
 * [Viber/build-a-bot-with-zero-coding](https://github.com/Viber/build-a-bot-with-zero-coding) An example of using Google Sheets to create a Viber survey chat bot without a backend server
 
+[goto top ⇑](#google-apps-script-list)
+
 ## Testing
 
 * [huan/gast](https://github.com/huan/gast) Google Apps Script TAP Testing-framework
@@ -238,9 +240,15 @@
 
 * [Benchmark](https://gist.github.com/tanaikech/848aeafaac1ec676900bb78e3ce220b6) Benchmark: Loop for Array Processing using Google Apps Script without V8
 
+[goto top ⇑](#google-apps-script-list)
+
 ## Snippets and assorted
 
 ### Snippets
+
+#### Collections
+
+* [Google Apps Script snippets ᕦʕ •ᴥ•ʔᕤ](https://apps-script-snippets.contributor.pw/)
 
 #### Spreadsheets
 
