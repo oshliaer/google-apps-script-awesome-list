@@ -221,6 +221,7 @@
 * [simula-innovation/qunit](https://github.com/simula-innovation/qunit) An easy-to-use JavaScript Unit Testing framework
 * [artofthesmart/QUnitGS2](https://github.com/artofthesmart/QUnitGS2) A Google Apps Script library that brings the power and simplicity of QUnit unit testing to your scripts and applications. In just 60 seconds you can add unit testing to any script.
 * [gasunit/GASUnit](https://github.com/gasunit/GASUnit) Testing library for Google Apps Script
+* [WildH0g/UnitTestingApp](https://github.com/WildH0g/UnitTestingApp) Unit Testing App for Google Apps Script that works online (in GAS environment) and offline (in your IDE).
 
 [goto top ⇑](#google-apps-script-list)
 
