@@ -26,6 +26,7 @@
 * [Benchmarking](#benchmarking)
 * [Snippets and assorted](#snippets-and-assorted)
   * [Snippets](#snippets)
+    * [Collections](#collections)
     * [Spreadsheets](#spreadsheets)
     * [Gmail](#gmail)
     * [XML](#xml)
@@ -239,6 +240,10 @@
 ## Snippets and assorted
 
 ### Snippets
+
+#### Collections
+
+* [Google Apps Script snippets ᕦʕ •ᴥ•ʔᕤ](https://apps-script-snippets.contributor.pw/)
 
 #### Spreadsheets
 
