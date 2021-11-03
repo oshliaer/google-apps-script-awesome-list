@@ -204,6 +204,7 @@
 * [Flubaroo](https://github.com/edcodeorg/flubaroo) Add-on for Google Spreadsheets that allows teachers to quickly grade assignments, get insights into student performance, and share grades with their students electronically
 * [Code Blocks](https://github.com/alexwforsythe/code-blocks) Syntax highlighting for Google Docs
 * [Data Connector](https://github.com/brentadamson/dataconnector) Import JSON and other data to Google Sheets
+* [Mailman](https://github.com/brentadamson/mailman) Mail merge for Google Sheets and Gmail
 
 [goto top ⇑](#google-apps-script-list)
 
