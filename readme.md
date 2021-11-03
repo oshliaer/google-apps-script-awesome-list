@@ -96,6 +96,7 @@
 * [maelcaldas/clasp-types](https://github.com/maelcaldas/clasp-types) A d.ts generator for clasp projects
 * [namaggarwal/clasp-token-action](https://github.com/namaggarwal/clasp-token-action) Github actions for clasp for CI for your AppScript projects.
 * [selectnull/eslint-plugin-googleappsscript](https://github.com/selectnull/eslint-plugin-googleappsscript) ESLint plugin for Google Apps Script environment
+* [VladimirMikulic/parcel-optimizer-gas](https://github.com/VladimirMikulic/parcel-optimizer-gas) 🌀 Parcel plugin that enables Google Apps Script bundling
 
 ### Starter Kits
 
