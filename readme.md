@@ -96,6 +96,7 @@
 * [maelcaldas/clasp-types](https://github.com/maelcaldas/clasp-types) A d.ts generator for clasp projects
 * [namaggarwal/clasp-token-action](https://github.com/namaggarwal/clasp-token-action) Github actions for clasp for CI for your AppScript projects.
 * [selectnull/eslint-plugin-googleappsscript](https://github.com/selectnull/eslint-plugin-googleappsscript) ESLint plugin for Google Apps Script environment
+* [VladimirMikulic/parcel-optimizer-gas](https://github.com/VladimirMikulic/parcel-optimizer-gas) 🌀 Parcel plugin that enables Google Apps Script bundling
 
 ### Starter Kits
 
@@ -138,7 +139,7 @@
 * [Sheetfu](https://github.com/socialpoint-labs/sheetfu) An ORM to treat spreadsheet as database tables using Google Apps Scripts. [Sheetfu's Python version](https://github.com/socialpoint-labs/sheetfu)
 * [itmammoth/Tamotsu](https://github.com/itmammoth/Tamotsu) Object-Spreadsheet Mapping for Google Apps Script
 * [Gexpress-middleware-RESTsheet](https://github.com/coderofsalvation/Gexpress-middleware-RESTsheet) Spreadsheet exposed as http REST endpoints (based on tamotsu)
- *[GoogleScriptSQL](https://github.com/YionoFr/GoogleScriptSQL) How to transform Google Sheet and Google App script into a SQL Database
+  * [GoogleScriptSQL](https://github.com/YionoFr/GoogleScriptSQL) How to transform Google Sheet and Google App script into a SQL Database
 
 ### Utility
 
