@@ -100,6 +100,7 @@
 
 ### Starter Kits
 
+* [ez-clasp](https://github.com/cristobalgvera/ez-clasp) A starter kit for building Google Apps Script projects with TypeScript, ESLint, Prettier, Jest and Rollup support out of the box.
 * [apps-script-starter](https://github.com/labnol/apps-script-starter) A starter kit for building Google Apps Script projects with modern JavaScript ES6, Webpack, Babel and ESLint inside Visual Studio Code
 * [realworld-apps-script](https://github.com/lastlink/realworld-apps-script) JWT REST API following the RealWorld API spec
 * [gas-minimal-boilerplate](https://github.com/asciian/gas-minimal-boilerplate) A minimal boilerplate with webpack for Google Apps Script
