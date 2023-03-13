@@ -263,6 +263,7 @@
 #### Collections
 
 * [Google Apps Script snippets ᕦʕ •ᴥ•ʔᕤ](https://apps-script-snippets.contributor.pw/)
+* [Collection of Apps Scripts for connecting to APIs](https://github.com/benlcollins/apps_script_apis)
 
 #### Spreadsheets
 
