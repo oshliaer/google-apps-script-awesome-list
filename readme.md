@@ -283,6 +283,10 @@
 * [JSONPath](https://script.google.com/a/google.com/d/1BtmcVnmTKAxqdiHN9Q5cM6M6E5MUMzVtQjSfav-OIQxNIoACkDdlst53/edit) Extract data from complex data structures with simple expressions. Google Apps Script version of [this](https://github.com/dchester/jsonpath) library.
 * [ImportJSON](https://github.com/bradjasper/ImportJSON) Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
 
+#### Fetch
+
+* [mayrsascha/UrlFetchAppWithRetries.gs](https://gist.github.com/mayrsascha/dd39019378b6688bf304a4cdc5cc55b1) Retriable requests batch for Google Apps Scripts
+
 ### Assorted
 
 * [GoogleSheets](https://github.com/Max-Makhrov/GoogleSheets) best code I've tested in Google Sheets
