@@ -159,6 +159,9 @@
 * [tanaikech/FetchApp](https://github.com/tanaikech/FetchApp) This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
 * [Apps Script Code Generator](https://www.labnol.org/apps/urlfetch.html) Generate "ready to run" code snippets for making HTTP requests with Google Apps Script. It supports query parameters, authorization, request body and headers
 * [classroomtechtools/ObjectStore](https://github.com/classroomtechtools/ObjectStore) A store for appscripts that utilizes Properties, Cache, and an in-memory map for speed
+* [EnhancedCacheService](https://github.com/yinonavraham/GoogleAppsScripts/tree/master/EnhancedCacheService) A cache service which wraps the GAS's native Cache to provide additional features
+* [XmlRpcMessageService](https://github.com/yinonavraham/GoogleAppsScripts/tree/master/XmlRpcMessageService) A service for simplifying the usage of XML-RPC services from JavaScript in Google Apps Script
+* [GmailSearchBuilder](https://github.com/yinonavraham/GoogleAppsScripts/tree/master/GmailSearchBuilder) A builder service for Gmail search queries. It provides a fluent API (chaining methods) for building a search query for mail threads in Gmail
 
 ### Parsing
 
