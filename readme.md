@@ -132,6 +132,7 @@
 
 * [FirebaseApp](https://github.com/RomainVialard/FirebaseApp) The Google Apps Script binding for the Firebase Realtime Database
 * [oshliaer/alasqlgs](https://github.com/oshliaer/alasqlgs) AlaSQLGS is a library that enables the use of the AlaSQL.js library in Google Apps Script
+* [p3sn/FireScript](https://github.com/p3sn/FireScript) Google Apps Script library for Firebase Admin, looking a lot like the NodeJS Admin SDK
 
 ### ORM (O/RM and O/R mapping tool)
 
