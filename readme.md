@@ -216,6 +216,7 @@
 * [Facebook-bot-Google-Apps-Script](https://github.com/JZL/Facebook-bot-Google-Apps-Script) A Facebook messenger bot implemented in Google Apps Script
 * [GroupMe Bots with Google Apps Script](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script) Examples and resources for using the GroupMe Bot API with Google Apps Script
 * [Viber/build-a-bot-with-zero-coding](https://github.com/Viber/build-a-bot-with-zero-coding) An example of using Google Sheets to create a Viber survey chat bot without a backend server
+* [Google-Telegram transfer bot](https://github.com/cyberonion256/google-telegram_transferbot) This Google Apps Script links a Telegram bot to a google spreadsheet and allows command-based information storaging
 
 [goto top ⇑](#google-apps-script-list)
 
