@@ -158,7 +158,7 @@
 * [zlib.js for Google Apps Script](https://github.com/takumab21/zlib.js) Compact zlib, deflate, inflate, zip library in Google Apps Script
 * [tanaikech/FetchApp](https://github.com/tanaikech/FetchApp) This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
 * [Apps Script Code Generator](https://www.labnol.org/apps/urlfetch.html) Generate "ready to run" code snippets for making HTTP requests with Google Apps Script. It supports query parameters, authorization, request body and headers
-* [banghasan/Telegram-Lib-GAS-V2](https://github.com/banghasan/Telegram-Lib-GAS-V2) Library Telegram untuk Google Apps Script Versi 2
+* [classroomtechtools/ObjectStore](https://github.com/classroomtechtools/ObjectStore) A store for appscripts that utilizes Properties, Cache, and an in-memory map for speed
 
 ### Parsing
 
@@ -218,6 +218,7 @@
 * [GroupMe Bots with Google Apps Script](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script) Examples and resources for using the GroupMe Bot API with Google Apps Script
 * [Viber/build-a-bot-with-zero-coding](https://github.com/Viber/build-a-bot-with-zero-coding) An example of using Google Sheets to create a Viber survey chat bot without a backend server
 * [Google-Telegram transfer bot](https://github.com/cyberonion256/google-telegram_transferbot) This Google Apps Script links a Telegram bot to a google spreadsheet and allows command-based information storaging
+* [banghasan/Telegram-Lib-GAS-V2](https://github.com/banghasan/Telegram-Lib-GAS-V2) Library Telegram untuk Google Apps Script Versi 2
 
 [goto top ⇑](#google-apps-script-list)
 
