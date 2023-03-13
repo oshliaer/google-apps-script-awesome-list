@@ -162,7 +162,7 @@
 ### Parsing
 
 * [Apps-Script-htmlparser2-library](https://github.com/Spencer-Easton/Apps-Script-htmlparser2-library) A browserified version of fb55/htmlparser2 modified to work in Google Apps Script
-* [cheeriogs](https://github.com/asciian/cheeriogs) HTML manipulation library with jQuery-like interface
+* [cheeriogs](https://github.com/tani/cheeriogs) HTML manipulation library with jQuery-like interface
 
 ### oAuth
 
