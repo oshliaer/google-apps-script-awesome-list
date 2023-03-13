@@ -61,7 +61,6 @@
 
 ### Awesome code & things
 
-* [Making a virtual machine in Google Sheets](http://briansteffens.com/2017/07/03/google-sheets-virtual-machine.html) Register of Apps Script consultants
 * [Easy data scraping with Google Apps Script in 5 minutes](http://www.kutil.org/2016/01/easy-data-scrapping-with-google-apps.html)
 * [Send SMS with Google Sheets and your Android Phone](https://www.labnol.org/send-sms-google-sheets-200402)
 
@@ -120,7 +119,7 @@
 
 ### Shims and polyfills
 
-* [cEs6Shim. Using Es6 with Apps Script](http://ramblings.mcpher.com/Home/excelquirks/gassnips/es6shim)
+* [Using Es6 with Apps Script](https://ramblings.mcpher.com/gassnippets2/using-es6-with-apps-script)
 
 [goto top ⇑](#google-apps-script-list)
 
@@ -211,8 +210,6 @@
 * [Gmail Unsubscriber](https://github.com/labnol/unsubscribe-gmail) Google Script for unsubscribing from emails newsletters and other bulk email in Gmail with one click.
 * [Flubaroo](https://github.com/edcodeorg/flubaroo) Add-on for Google Spreadsheets that allows teachers to quickly grade assignments, get insights into student performance, and share grades with their students electronically
 * [Code Blocks](https://github.com/alexwforsythe/code-blocks) Syntax highlighting for Google Docs
-* [Data Connector](https://github.com/brentadamson/dataconnector) Import JSON and other data to Google Sheets
-* [Mailman](https://github.com/brentadamson/mailman) Mail merge for Google Sheets and Gmail
 * [mithunmanohar/woocommerce-orders-google-sheets-integration](https://github.com/mithunmanohar/woocommerce-orders-google-sheets-integration) Connect and sync order data from your WooCommerce store to Google sheets automatically. A free alternative to Zapier-WooCommerce integration that saves new WooCommerce order details to google sheets. Version V2 with improved features is now available
 * [gauravgrover95/woocommerce-smartsheets](https://github.com/gauravgrover95/woocommerce-smartsheets) Google Spreadsheets add on to import your WooCommerce supported E-Commerce website data to Google Sheets
 * [sajacy/google-sheets-what-if-analysis](https://github.com/sajacy/google-sheets-what-if-analysis) Replicates the Excel "What-If Analysis" feature, Data Tables
