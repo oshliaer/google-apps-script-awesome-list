@@ -157,7 +157,8 @@
 * [GetEditType](https://github.com/tanaikech/GetEditType) Library for retrieving the edit types of the OnEdit event trigger of Spreadsheet using Google Apps Script
 * [zlib.js for Google Apps Script](https://github.com/takumab21/zlib.js) Compact zlib, deflate, inflate, zip library in Google Apps Script
 * [tanaikech/FetchApp](https://github.com/tanaikech/FetchApp) This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
-* [Apps Script Code Generator](https://www.labnol.org/apps/urlfetch.html) Generate "ready to run" code snippets for making HTTP requests with Google Apps Script. It supports query parameters, authorization, request body and headers.
+* [Apps Script Code Generator](https://www.labnol.org/apps/urlfetch.html) Generate "ready to run" code snippets for making HTTP requests with Google Apps Script. It supports query parameters, authorization, request body and headers
+* [banghasan/Telegram-Lib-GAS-V2](https://github.com/banghasan/Telegram-Lib-GAS-V2) Library Telegram untuk Google Apps Script Versi 2
 
 ### Parsing
 
