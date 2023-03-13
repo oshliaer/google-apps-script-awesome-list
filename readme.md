@@ -222,6 +222,7 @@
 * [Viber/build-a-bot-with-zero-coding](https://github.com/Viber/build-a-bot-with-zero-coding) An example of using Google Sheets to create a Viber survey chat bot without a backend server
 * [Google-Telegram transfer bot](https://github.com/cyberonion256/google-telegram_transferbot) This Google Apps Script links a Telegram bot to a google spreadsheet and allows command-based information storaging
 * [banghasan/Telegram-Lib-GAS-V2](https://github.com/banghasan/Telegram-Lib-GAS-V2) Library Telegram untuk Google Apps Script Versi 2
+* [Guf-Hub/TGBot](https://github.com/Guf-Hub/TGBot) Google Apps Script library for working with the Telegram API. Google Apps Script библиотека для работы с API Telegram
 
 [goto top ⇑](#google-apps-script-list)
 
