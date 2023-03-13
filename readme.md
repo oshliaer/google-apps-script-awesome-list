@@ -212,6 +212,8 @@
 * [Code Blocks](https://github.com/alexwforsythe/code-blocks) Syntax highlighting for Google Docs
 * [Data Connector](https://github.com/brentadamson/dataconnector) Import JSON and other data to Google Sheets
 * [Mailman](https://github.com/brentadamson/mailman) Mail merge for Google Sheets and Gmail
+* [mithunmanohar/woocommerce-orders-google-sheets-integration](https://github.com/mithunmanohar/woocommerce-orders-google-sheets-integration) Connect and sync order data from your WooCommerce store to Google sheets automatically. A free alternative to Zapier-WooCommerce integration that saves new WooCommerce order details to google sheets. Version V2 with improved features is now available
+* [gauravgrover95/woocommerce-smartsheets](https://github.com/gauravgrover95/woocommerce-smartsheets) Google Spreadsheets add on to import your WooCommerce supported E-Commerce website data to Google Sheets
 
 [goto top ⇑](#google-apps-script-list)
 
