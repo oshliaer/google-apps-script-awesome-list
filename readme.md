@@ -150,7 +150,7 @@
 * [Gexpress](https://github.com/coderofsalvation/Gexpress) Express-ish middleware for google appscript (build NODEJS-ish applications)
 * [tanaikech/RangeListApp](https://github.com/tanaikech/RangeListApp) RangeListApp is a GAS library for retrieving, putting and replacing values for Spreadsheet by a range list with a1Notation using Google Apps Script (GAS)
 * [syslogic/google-apps-script](https://github.com/syslogic/google-apps-script) CloudDatastore.gs is a client for Google Cloud Datastore, which runs as a Service Account
-* [Sheetbase](https://sheetbase.dev) Build REST API server, websites and apps using Google Apps Script.
+* [Sheetbase](https://github.com/sheetbase) Build REST API server, websites and apps using Google Apps Script.
 * [UrlShortener](https://github.com/mhawksey/UrlShortener) A replacement for the Google Apps Script UrlShortener advanced service that uses bit.ly
 * [michalliu/google-app-script-jsonrpc](https://github.com/michalliu/google-app-script-jsonrpc) An implementation of JSON-RPC 2.0 specification
 * [johndturn/google-apps-script-storageservice](https://github.com/johndturn/google-apps-script-storageservice) Utility class (built in TypeScript) for storing small or large values in Google Apps Script properties
