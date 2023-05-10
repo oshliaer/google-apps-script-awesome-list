@@ -144,6 +144,7 @@
 
 ### Utility
 
+* [SpeedStore](https://github.com/joshsny/SpeedStore) Blazingly fast Properties storage for Google Apps Script ⚡
 * [gas-underscore](https://github.com/simula-innovation/gas-underscore) Underscore for Google Apps Script
 * [lodashgs](https://github.com/oshliaer/lodashgs) Lodash for Google Apps Script is a library that enables the use of the lodash.js library in Google Apps Script
 * [brucemcpherson/cUseful](https://github.com/brucemcpherson/cUseful) Various dependency free useful functions
