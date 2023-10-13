@@ -274,7 +274,8 @@
 #### Gmail
 
 * [Apps-Script-Gmail-Push-Notifications-v2](https://github.com/Spencer-Easton/Apps-Script-Gmail-Push-Notifications-v2) Register a Gmail account for push notifications and programmatically set up the the proper pubsub publishing channels and subscriptions
-* [Gmail2GDrive](https://github.com/ahochsteger/gmail2gdrive)  Automatically stores and sorts Gmail attachments into Google Drive folders
+* [Gmail2GDrive](https://github.com/ahochsteger/gmail-processor/tree/1.x)  Automatically stores and sorts Gmail attachments into Google Drive folders - replaced by [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)
+* [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)  Very powerful and flexible Google Apps Script library that automatically stores Gmail attachments into Google Drive folders and many more features
 
 #### XML
 
