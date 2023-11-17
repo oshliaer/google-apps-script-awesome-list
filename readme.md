@@ -168,6 +168,7 @@
 
 * [Apps-Script-htmlparser2-library](https://github.com/Spencer-Easton/Apps-Script-htmlparser2-library) A browserified version of fb55/htmlparser2 modified to work in Google Apps Script
 * [cheeriogs](https://github.com/tani/cheeriogs) HTML manipulation library with jQuery-like interface
+* [PdfApp](https://github.com/tani/pdf.gs) PdfApp is a library to extract text content from a PDF file using PDF.js.
 
 ### oAuth
 
