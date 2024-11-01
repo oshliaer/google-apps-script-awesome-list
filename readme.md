@@ -140,7 +140,8 @@
 * [Sheetfu](https://github.com/socialpoint-labs/sheetfu) An ORM to treat spreadsheet as database tables using Google Apps Scripts. [Sheetfu's Python version](https://github.com/socialpoint-labs/sheetfu)
 * [itmammoth/Tamotsu](https://github.com/itmammoth/Tamotsu) Object-Spreadsheet Mapping for Google Apps Script
 * [Gexpress-middleware-RESTsheet](https://github.com/coderofsalvation/Gexpress-middleware-RESTsheet) Spreadsheet exposed as http REST endpoints (based on tamotsu)
-  * [GoogleScriptSQL](https://github.com/YionoFr/GoogleScriptSQL) How to transform Google Sheet and Google App script into a SQL Database
+* [GoogleScriptSQL](https://github.com/YionoFr/GoogleScriptSQL) How to transform Google Sheet and Google App script into a SQL Database
+* [Ob2SS](https://github.com/artofthesmart/ob2ss) Another object-spreadsheet mapper for Google Apps Script
 
 ### Utility
 
