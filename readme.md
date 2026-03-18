@@ -149,6 +149,7 @@
 * [Gexpress-middleware-RESTsheet](https://github.com/coderofsalvation/Gexpress-middleware-RESTsheet) Spreadsheet exposed as http REST endpoints (based on tamotsu)
 * [GoogleScriptSQL](https://github.com/YionoFr/GoogleScriptSQL) How to transform Google Sheet and Google App script into a SQL Database
 * [Ob2SS](https://github.com/artofthesmart/ob2ss) Another object-spreadsheet mapper for Google Apps Script
+* [Sintropiadotio/orma](https://github.com/Sintropiadotio/orma) The Google Apps Script ORM
 
 ### Utility
 
