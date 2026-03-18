@@ -73,6 +73,7 @@
 * [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) Google Apps Script Snippets
 * [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) Various sample code and projects for the Google Apps Script platform
 * [googlesamples/apps-script-templates](https://github.com/googlesamples/apps-script-templates) This repository contains a number of code templates for Google Apps Script that provide example frameworks for Apps Script projects
+* [ashtonfei/google-apps-script-projects](https://github.com/ashtonfei/google-apps-script-projects) A collection of Google Apps Script projects shared on YouTube
 
 [goto top ⇑](#google-apps-script-list)
 
