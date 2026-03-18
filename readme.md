@@ -40,7 +40,7 @@
 ## Communities
 
 * [Google Apps Script Community](https://groups.google.com/forum/#!forum/google-apps-script-community) Google Groups
-* [Google Apps Script Slack Community](https://google-apps-script.slack.com) Slack
+
 * [Google Apps Script Facebook Community](https://www.facebook.com/groups/googleappsscript/) Facebook Group
 * [r/GoogleAppsScript](https://www.reddit.com/r/GoogleAppsScript) Reddit
 * [Google Apps Script Telegram Chat](https://t.me/googleappsscriptrc) Telegram
