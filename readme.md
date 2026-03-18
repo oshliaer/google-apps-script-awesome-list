@@ -122,6 +122,7 @@
 * [enuchi/React-Google-Apps-Script](https://github.com/enuchi/React-Google-Apps-Script) This is your boilerplate project for developing React apps inside Google Sheets, Docs, Forms and Slides projects. It's perfect for personal projects and for publishing complex add-ons in the G Suite Marketplace.
 * [atti187/esmodules](https://github.com/atti187/esmodules) Example repo of using esmodules with Apps Script
 * [WildH0g/apps-script-engine-template](https://github.com/WildH0g/apps-script-engine-template) A robust, highly configurable template for Google Apps Script projects with essential development tools out of the box
+* [rupampoddar/apps-script-template](https://github.com/rupampoddar/apps-script-template) Starter template for Google Apps Script using Vite with support for React, Vue, Svelte and other frontend frameworks
 * [MaksymStoianov/appsscript-boot](https://github.com/MaksymStoianov/appsscript-boot) A framework for Google Apps Script that simplifies API creation, route management, and maintains a clean project architecture.
 
 ### Shims and polyfills
