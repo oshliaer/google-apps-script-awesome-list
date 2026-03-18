@@ -13,6 +13,7 @@
   * [Using databases](#using-databases)
   * [ORM (O/RM and O/R mapping tool)](#orm-orm-and-or-mapping-tool)
   * [Utility](#utility)
+  * [Artificial Intelligence](#artificial-intelligence)
   * [Parsing](#parsing)
   * [oAuth](#oauth)
   * [Images & Pictures](#images--pictures)
@@ -170,6 +171,10 @@
 * [GmailSearchBuilder](https://github.com/yinonavraham/GoogleAppsScripts/tree/master/GmailSearchBuilder) A builder service for Gmail search queries. It provides a fluent API (chaining methods) for building a search query for mail threads in Gmail
 * [tanaikech/ProcessApp](https://github.com/tanaikech/ProcessApp) This is a library for retrieving the process and information of Google Apps Script. For example, one of methods retrieves the total execution time of all functions executed by the time-driven trigger at owner's account
 * [appsscript-utils](https://github.com/MaksymStoianov/appsscript-utils) A collection of reusable utilities and helpers for Google Apps Script development, written in TypeScript
+
+### Artificial Intelligence
+
+* [scriptit-fr/GenAIApp](https://github.com/scriptit-fr/GenAIApp) Google Apps Script binding for Gemini and OpenAI generative AI APIs
 
 ### Parsing
 
