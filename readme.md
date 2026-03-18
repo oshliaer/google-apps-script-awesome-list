@@ -81,7 +81,7 @@
 
 * [google/clasp](https://github.com/google/clasp) Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
 * [gas-local](https://github.com/mzagorny/gas-local) Execute and test your google app scripts locally in node.js
-* [brucemcpherson/gas-fakes](https://github.com/brucemcpherson/gas-fakes) A proof of concept implementation of Apps Script environment on Node.js
+* [brucemcpherson/gas-fakes](https://github.com/brucemcpherson/gas-fakes) A proof of concept implementation of Apps Script environment on node.js
 * [gamified_journal](https://github.com/brainysmurf/gamified_journal) Proof of concept of a local development / push toolchain for Google Apps Scripting
 * [gas-github](https://github.com/leonhartX/gas-github) Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [ggsrun](https://github.com/tanaikech/ggsrun) This is a CLI tool to execute Google Apps Script (GAS) on a terminal
