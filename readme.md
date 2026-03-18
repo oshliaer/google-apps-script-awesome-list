@@ -162,7 +162,6 @@
 * [michalliu/google-app-script-jsonrpc](https://github.com/michalliu/google-app-script-jsonrpc) An implementation of JSON-RPC 2.0 specification
 * [johndturn/google-apps-script-storageservice](https://github.com/johndturn/google-apps-script-storageservice) Utility class (built in TypeScript) for storing small or large values in Google Apps Script properties
 * [GetEditType](https://github.com/tanaikech/GetEditType) Library for retrieving the edit types of the OnEdit event trigger of Spreadsheet using Google Apps Script
-* [zlib.js for Google Apps Script](https://github.com/takumab21/zlib.js) Compact zlib, deflate, inflate, zip library in Google Apps Script
 * [tanaikech/FetchApp](https://github.com/tanaikech/FetchApp) This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
 * [Apps Script Code Generator](https://www.labnol.org/apps/urlfetch.html) Generate "ready to run" code snippets for making HTTP requests with Google Apps Script. It supports query parameters, authorization, request body and headers
 * [classroomtechtools/ObjectStore](https://github.com/classroomtechtools/ObjectStore) A store for appscripts that utilizes Properties, Cache, and an in-memory map for speed
