@@ -2,6 +2,7 @@
 
 <!-- toc -->
 
+* [Communities](#communities)
 * [Resources](#resources)
   * [Useful sites & blogs](#useful-sites--blogs)
   * [Awesome code & things](#awesome-code--things)
@@ -36,12 +37,20 @@
 
 <!-- tocstop -->
 
-## Resources
+## Communities
 
 * [Google Apps Script Community](https://groups.google.com/forum/#!forum/google-apps-script-community) Google Groups
+* [Google Apps Script Slack Community](https://google-apps-script.slack.com) Slack
+* [Google Apps Script Facebook Community](https://www.facebook.com/groups/googleappsscript/) Facebook Group
+* [r/GoogleAppsScript](https://www.reddit.com/r/GoogleAppsScript) Reddit
+* [Google Apps Script Telegram Chat](https://t.me/googleappsscriptrc) Telegram
+
+[goto top ⇑](#google-apps-script-list)
+
+## Resources
+
 * Search by label [[google-apps-script]](https://github.com/search?q=topic%3Agoogle-apps-script) on GitHub
 * SO [[google-apps-script]](http://stackoverflow.com/questions/tagged/google-apps-script) tag
-* Google Apps Script communities collection [#85](https://github.com/contributorpw/google-apps-script-awesome-list/issues/85)
 
 ### Useful sites & blogs
 
