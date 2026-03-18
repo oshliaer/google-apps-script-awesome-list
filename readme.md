@@ -117,6 +117,7 @@
 * [PopGoesTheWza/ts-gas-project-starter](https://github.com/PopGoesTheWza/ts-gas-project-starter) Sample repository for Typescript based Google Apps Script projects
 * [enuchi/React-Google-Apps-Script](https://github.com/enuchi/React-Google-Apps-Script) This is your boilerplate project for developing React apps inside Google Sheets, Docs, Forms and Slides projects. It's perfect for personal projects and for publishing complex add-ons in the G Suite Marketplace.
 * [atti187/esmodules](https://github.com/atti187/esmodules) Example repo of using esmodules with Apps Script
+* [MaksymStoianov/appsscript-boot](https://github.com/MaksymStoianov/appsscript-boot) A framework for Google Apps Script that simplifies API creation, route management, and maintains a clean project architecture.
 
 ### Shims and polyfills
 
@@ -166,6 +167,7 @@
 * [XmlRpcMessageService](https://github.com/yinonavraham/GoogleAppsScripts/tree/master/XmlRpcMessageService) A service for simplifying the usage of XML-RPC services from JavaScript in Google Apps Script
 * [GmailSearchBuilder](https://github.com/yinonavraham/GoogleAppsScripts/tree/master/GmailSearchBuilder) A builder service for Gmail search queries. It provides a fluent API (chaining methods) for building a search query for mail threads in Gmail
 * [tanaikech/ProcessApp](https://github.com/tanaikech/ProcessApp) This is a library for retrieving the process and information of Google Apps Script. For example, one of methods retrieves the total execution time of all functions executed by the time-driven trigger at owner's account
+* [appsscript-utils](https://github.com/MaksymStoianov/appsscript-utils) A collection of reusable utilities and helpers for Google Apps Script development, written in TypeScript
 
 ### Parsing
 
