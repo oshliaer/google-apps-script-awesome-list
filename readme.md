@@ -228,6 +228,7 @@
 * [mithunmanohar/woocommerce-orders-google-sheets-integration](https://github.com/mithunmanohar/woocommerce-orders-google-sheets-integration) Connect and sync order data from your WooCommerce store to Google sheets automatically. A free alternative to Zapier-WooCommerce integration that saves new WooCommerce order details to google sheets. Version V2 with improved features is now available
 * [gauravgrover95/woocommerce-smartsheets](https://github.com/gauravgrover95/woocommerce-smartsheets) Google Spreadsheets add on to import your WooCommerce supported E-Commerce website data to Google Sheets
 * [sajacy/google-sheets-what-if-analysis](https://github.com/sajacy/google-sheets-what-if-analysis) Replicates the Excel "What-If Analysis" feature, Data Tables
+* [zmandel/timeline-jira-google-sheets](https://github.com/zmandel/timeline-jira-google-sheets) Create Jira timelines for multiple projects in Google Sheets
 
 [goto top ⇑](#google-apps-script-list)
 
