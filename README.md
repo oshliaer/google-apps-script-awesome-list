@@ -216,6 +216,7 @@
 ### Services
 
 * [pamnard/Tinkoff-REST-API-via-Google-Apps-Script: Обёртка Tinkoff API на Google Apps Script (не официальная)](https://github.com/pamnard/Tinkoff-REST-API-via-Google-Apps-Script) A wrapper of Tinkoff REST API
+* [shopsavvy/google-sheets-shopsavvy](https://github.com/shopsavvy/google-sheets-shopsavvy) Custom functions for product price comparison and tracking in Google Sheets
 
 [goto top ⇑](#google-apps-script-list)
 
