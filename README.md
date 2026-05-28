@@ -240,6 +240,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [gauravgrover95/woocommerce-smartsheets](https://github.com/gauravgrover95/woocommerce-smartsheets) Google Spreadsheets add on to import your WooCommerce supported E-Commerce website data to Google Sheets
 * [sajacy/google-sheets-what-if-analysis](https://github.com/sajacy/google-sheets-what-if-analysis) Replicates the Excel "What-If Analysis" feature, Data Tables
 * [zmandel/timeline-jira-google-sheets](https://github.com/zmandel/timeline-jira-google-sheets) Create Jira timelines for multiple projects in Google Sheets
+* [yoelf22/unspoofer](https://github.com/yoelf22/unspoofer) Gmail scanner that flags display-name spoofing where the sender name uses Unicode homoglyphs to impersonate a brand from an unrelated domain
 
 [goto top ⇑](#google-apps-script-list)
 
