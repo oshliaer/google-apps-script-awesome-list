@@ -289,6 +289,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 * [Google Apps Script snippets ᕦʕ •ᴥ•ʔᕤ](https://apps-script-snippets.contributor.pw/)
 * [Collection of Apps Scripts for connecting to APIs](https://github.com/benlcollins/apps_script_apis)
+* [Google Sheets & Workspace Apps Script snippets](https://github.com/bulldo-gs/apps-script-snippets) Copy-paste functions for transposing ranges, multi-column sort, splitting names, duplicate highlighting, and spreadsheet-to-Calendar sync
 
 #### Spreadsheets
 
