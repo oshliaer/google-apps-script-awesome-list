@@ -69,6 +69,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [pulse.appsscript.info](https://pulse.appsscript.info/) User contributed tutorials and news
 * [yagisanatode.com](https://yagisanatode.com/) Section in Yagi's blog about `Google Apps Script`, including tutorials and templates
 * [script.gs](https://script.gs/) Discussions, tutorials and tips about Google Apps Script and related technologies
+* [Stack Architect](https://stackarchitect.xyz/) Technical architecture breakdowns, rate-limit workarounds, and backend automation patterns.
 
 ### Awesome code & things
 
@@ -331,5 +332,5 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [GAS-Framework](https://github.com/andrewroberts/GAS-Framework) - library boilerplate that provides logging ([BBLog](https://github.com/andrewroberts/BBLog)) and error handling ([Assert](https://github.com/andrewroberts/Assert))
 * [AutoSteamGifts](https://github.com/sudtanj/AutoSteamGifts) A Modified version based on Python script by joaopsys that run on Google server using Google App Script to automatically enter every giveaway that you can afford on SteamGifts.com
 * [BkperApp](https://github.com/bkper/bkper-app) A simple and secure way to access the Bkper API through Google Apps Script infrastructure
-
+* [Google Apps Script Quotas & Rate Limits Fixes](https://stackarchitect.xyz/blog/how-to-fix-service-invoked-too-many-times-in-google-apps-script/) Code patterns for exponential backoff, batch reads/writes, and handling 'Service invoked too many times' errors.
 [goto top ⇑](#google-apps-script-list)
