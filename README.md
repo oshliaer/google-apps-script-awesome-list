@@ -285,6 +285,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ### Snippets
 
+* [google-maps-100-stops](https://github.com/b4thefomo/google-maps-100-stops) A custom function that builds one Google Maps URL for up to 100 stops, with the research showing why it works
 #### Collections
 
 * [Google Apps Script snippets ᕦʕ •ᴥ•ʔᕤ](https://apps-script-snippets.contributor.pw/)
