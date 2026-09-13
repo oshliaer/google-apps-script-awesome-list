@@ -12,6 +12,9 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [Development](#development)
   * [Starter Kits](#starter-kits)
   * [Shims and polyfills](#shims-and-polyfills)
+* [AI Agent Skills & Plugins](#ai-agent-skills--plugins)
+  * [boot.gs framework skills](#bootgs-framework-skills)
+  * [Framework-agnostic Apps Script skills](#framework-agnostic-apps-script-skills)
 * [Libraries & Modules](#libraries--modules)
   * [Using databases](#using-databases)
   * [ORM (O/RM and O/R mapping tool)](#orm-orm-and-or-mapping-tool)
@@ -138,6 +141,29 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ### Shims and polyfills
 
 * [Using Es6 with Apps Script](https://ramblings.mcpher.com/gassnippets2/using-es6-with-apps-script)
+
+[goto top ⇑](#google-apps-script-list)
+
+## AI Agent Skills & Plugins
+
+* [bootgs/skills](https://github.com/bootgs/skills) Agent Skills and plugins for the boot.gs framework and plain Google Apps Script development, for Claude Code, Gemini CLI and Cursor
+
+### boot.gs framework skills
+
+* [bootgs-quickstart](https://github.com/bootgs/skills/tree/main/skills/bootgs-quickstart) Bootstraps a new boot.gs project — tsconfig, manifest, clasp config and entry-point wiring
+* [bootgs-architecture](https://github.com/bootgs/skills/tree/main/skills/bootgs-architecture) Enforces a Controller → Service → Repository → Domain layering via an eslint-plugin-boundaries config
+* [bootgs-validation](https://github.com/bootgs/skills/tree/main/skills/bootgs-validation) Parameter validation decorators and Parse pipes for bootgs controller methods
+* [bootgs-client](https://github.com/bootgs/skills/tree/main/skills/bootgs-client) Documents the bootgs Virtual Transport Layer contract and a client for calling a bootgs backend from a web app
+* [bootgs-openapi](https://github.com/bootgs/skills/tree/main/skills/bootgs-openapi) Generates an OpenAPI 3.0 spec from bootgs @RestController classes via TypeScript AST analysis
+
+### Framework-agnostic Apps Script skills
+
+* [apps-script-triggers](https://github.com/bootgs/skills/tree/main/skills/apps-script-triggers) Explains simple vs installable triggers, their event object shapes and authorization differences
+* [apps-script-services](https://github.com/bootgs/skills/tree/main/skills/apps-script-services) Quota-safe patterns for SpreadsheetApp, PropertiesService, CacheService, LockService and UrlFetchApp
+* [apps-script-ui](https://github.com/bootgs/skills/tree/main/skills/apps-script-ui) Builds custom menus, sidebars, modal dialogs and toast notifications via HtmlService
+* [apps-script-clasp-workflow](https://github.com/bootgs/skills/tree/main/skills/apps-script-clasp-workflow) Documents the clasp CLI workflow — login, push vs deploy, versioning and multi-environment setups
+* [apps-script-utils](https://github.com/bootgs/skills/tree/main/skills/apps-script-utils) A standalone guard/utility library skill with isX/nonX/requireX helpers, A1-notation parsing and typed exceptions
+* [apps-script-marketplace-publish](https://github.com/bootgs/skills/tree/main/skills/apps-script-marketplace-publish) Audits a Google Workspace add-on against the current Marketplace review requirements and guides publishing
 
 [goto top ⇑](#google-apps-script-list)
 
