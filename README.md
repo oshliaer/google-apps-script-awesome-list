@@ -240,6 +240,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [gauravgrover95/woocommerce-smartsheets](https://github.com/gauravgrover95/woocommerce-smartsheets) Google Spreadsheets add on to import your WooCommerce supported E-Commerce website data to Google Sheets
 * [sajacy/google-sheets-what-if-analysis](https://github.com/sajacy/google-sheets-what-if-analysis) Replicates the Excel "What-If Analysis" feature, Data Tables
 * [zmandel/timeline-jira-google-sheets](https://github.com/zmandel/timeline-jira-google-sheets) Create Jira timelines for multiple projects in Google Sheets
+* [DecodedXR/sheets-mail-merge](https://github.com/DecodedXR/sheets-mail-merge) Single-file mail merge for Sheets that uses a Gmail draft as the template, with a status column so re-runs never double-send and resume after the daily quota
 
 [goto top ⇑](#google-apps-script-list)
 
