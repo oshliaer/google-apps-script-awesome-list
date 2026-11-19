@@ -297,6 +297,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [ReshapeReshaping functions for Google Spreadsheets](https://github.com/rgertenbach/Reshape)
 * [Sample HTML/JS to parse a Google Spreadsheet](https://gist.github.com/terrywbrady/a03b25fe42959b304b1e)
 * [Example on how to export a Google sheet to various formats, includes most PDF options](https://gist.github.com/Spencer-Easton/78f9867a691e549c9c70)
+* [sheets-levenshtein](https://github.com/Snakbacks/sheets-levenshtein) Levenshtein distance, similarity and best-match custom functions for Google Sheets, plus a no-script named-function version
 
 #### Gmail
 
